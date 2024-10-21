@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "請求とサブスクリプション | あなたのサービス名",
+    "description": "サブスクリプションの管理、請求履歴の確認、支払い情報の更新ができます。"
+  },
+  "title": "請求とサブスクリプション",
+  "description": "サブスクリプションと請求情報を管理する",
+  "loading": "読み込み中...",
+  "currentPlan": "現在のプラン",
+  "credits": "利用可能なクレジット",
+  "status": "ステータス",
+  "renewalDate": "次回の更新日：{{date}}",
+  "cancelAtPeriodEnd": "{{date}}にキャンセル予定",
+  "cancelAt": "{{date}}にキャンセル予定",
+  "canceledAt": "{{date}}にキャンセル済み",
+  "cancelSubscription": "サブスクリプションをキャンセル",
+  "cancelConfirmation": "サブスクリプションをキャンセルしてもよろしいですか？",
+  "cancelSuccess": "サブスクリプションが正常にキャンセルされました",
+  "cancelError": "サブスクリプションのキャンセル中にエラーが発生しました。もう一度お試しください。",
+  "noPlan": "アクティブなサブスクリプションがありません",
+  "noPlanDescription": "現在アクティブなサブスクリプションがありません。プランを選択して始めましょう。",
+  "viewPlans": "プランを表示",
+  "billingHistory": "請求履歴",
+  "subscriptionStatus": {
+    "active": "アクティブ",
+    "canceled": "キャンセル済み",
+    "incomplete": "不完全",
+    "incomplete_expired": "期限切れ（不完全）",
+    "past_due": "支払い期限超過",
+    "trialing": "トライアル中",
+    "unpaid": "未払い"
+  },
+  "interval": {
+    "day": "日",
+    "week": "週",
+    "month": "月",
+    "year": "年"
+  },
+  "errors": {
+    "fetchFailed": "サブスクリプションデータの取得に失敗しました。もう一度お試しください。",
+    "updateFailed": "サブスクリプションの更新に失敗しました。もう一度お試しください。",
+    "general": "エラーが発生しました。後でもう一度お試しください。"
+  }
+}

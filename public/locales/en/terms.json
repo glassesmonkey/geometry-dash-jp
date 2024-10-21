@@ -1,0 +1,96 @@
+{
+    "meta": {
+      "title": "Terms of Service - Evergreen Systems LLC"
+    },
+    "title": "Terms of Service",
+    "intro": "This Terms of Service agreement sets forth the terms and conditions for use of Evergreen Systems LLC's image processing service. By using our service, you agree to these terms.",
+    "service": {
+      "title": "1. Service Description",
+      "description": "Evergreen Systems LLC provides a web-based SaaS service for image processing. Our service allows users to upload, process, and download images using various algorithms and techniques."
+    },
+    "account": {
+      "title": "2. User Account",
+      "description": "Users are required to register an account using Google login. You are responsible for maintaining the confidentiality of your account and password. You agree to accept responsibility for all activities that occur under your account."
+    },
+    "pricing": {
+      "title": "3. Pricing and Payment",
+      "description": "Our pricing model is as follows:",
+      "trial": "Initial free trial with limited usage.",
+      "subscription": "Subscription-based payment required after free trial.",
+      "payment": "Payment information collected through Stripe.",
+      "refunds": "We do not provide refunds for unused subscription time. Subscription cancellations will take effect at the end of the current billing cycle."
+    },
+    "content": {
+      "title": "4. User Content and Data",
+      "description": "Users are responsible for the content they upload and process:",
+      "size": "Maximum upload size: 25MB per image.",
+      "retention": {
+        "original": "Original images retained for 1 day after processing.",
+        "processed": "Processed images retained for 90 days."
+      },
+      "prohibited": "Prohibited content: pornography, violence, copyright infringement, child exploitation material.",
+      "rights": "You retain all rights to your content. By uploading content, you grant us a non-exclusive, worldwide, royalty-free license to use, store, and process that content solely for the purpose of providing our service to you."
+    },
+    "dataProcessing": {
+      "title": "5. Data Processing and Third-party Services",
+      "description": "We use the following third-party services to process images:",
+      "service1": "replicate",
+      "service2": "picsart",
+      "dataHandling": "These third-party services process your data solely for the purpose of providing our image processing service. We do not sell or share your personal data with these services for their own use."
+    },
+    "availability": {
+      "title": "6. Service Availability and Interruptions",
+      "description": "We strive to maintain high availability of our service, but we do not guarantee uninterrupted access.",
+      "interruptions": "Users will be notified of service interruptions through the website.",
+      "maintenance": "We reserve the right to perform scheduled maintenance, which may result in service interruptions. We will provide advance notice for scheduled maintenance whenever possible."
+    },
+    "modifications": {
+      "title": "7. Modifications to the Service",
+      "description": "We reserve the right to modify, suspend, or discontinue the service (or any part thereof) at any time. Users will be notified of significant changes via email.",
+      "featureChanges": "We may add, alter, or remove features from the service at any time without prior notice."
+    },
+    "termination": {
+      "title": "8. Termination of Service",
+      "description": "We reserve the right to terminate user accounts or stop providing services under the following circumstances:",
+      "reasons": {
+        "0": "Violation of these Terms of Service",
+        "1": "Engagement in illegal activities",
+        "2": "Abuse of the service",
+        "3": "Fraudulent activities",
+        "4": "Security threats",
+        "5": "Technical limitations",
+        "6": "Business changes",
+        "7": "Legal requirements",
+        "8": "Harassment of other users or staff",
+        "9": "Repeated copyright infringement",
+        "10": "Provision of false information",
+        "11": "Usage incompatible with service design"
+      },
+      "effectOfTermination": "Upon termination, your right to use the service will immediately cease. We may, but are not obligated to, delete your data upon termination."
+    },
+    "liability": {
+      "title": "9. Limitation of Liability",
+      "description": "To the fullest extent permitted by law, Evergreen Systems LLC shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenues.",
+      "maximumLiability": "Our maximum liability to you for any damages arising from or related to these Terms of Service shall not exceed the amount you paid us in the past 12 months."
+    },
+    "governing": {
+      "title": "10. Governing Law and Jurisdiction",
+      "description": "These Terms of Service are governed by the laws of the State of Wyoming, USA. Any legal action or proceeding relating to your access to, or use of, the service or these Terms of Service shall be instituted in a state or federal court in Wyoming."
+    },
+    "disputes": {
+      "title": "11. Dispute Resolution",
+      "description": "Any disputes will be resolved through friendly negotiation. If unsuccessful, disputes will be resolved in the courts of Wyoming, USA.",
+      "mandatoryArbitration": "If negotiation fails, any controversy or claim arising out of or relating to these Terms of Service shall be settled by binding arbitration in accordance with the commercial arbitration rules of the American Arbitration Association."
+    },
+    "intellectualProperty": {
+      "title": "12. Intellectual Property",
+      "description": "The service and its original content (excluding content provided by users), features, and functionality are and will remain the exclusive property of Evergreen Systems LLC. Our service is protected by copyright, trademark, and other laws of the United States and foreign countries."
+    },
+    "changes": {
+      "title": "13. Changes to Terms",
+      "description": "We reserve the right to change these Terms of Service at any time. Users will be notified of significant changes via email.",
+      "continuedUse": "Your continued use of the service after changes to the Terms of Service constitutes your acceptance of the new terms."
+    },
+    "lastUpdated": "Last Updated",
+    "updateDate": "September 15, 2024"
+  }

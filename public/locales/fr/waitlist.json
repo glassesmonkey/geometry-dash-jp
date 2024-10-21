@@ -1,0 +1,22 @@
+{
+  "waitlist": {
+    "meta": {
+      "title": "Rejoignez la liste d'attente de Flux 1.1 PRO | Générateur d'images IA avancé",
+      "description": "En raison de la forte demande, Flux 1.1 PRO est actuellement à pleine capacité. Rejoignez notre liste d'attente pour avoir une chance de recevoir des crédits d'essai gratuits une fois approuvé."
+    },
+    "title": "Rejoignez la liste d'attente de Flux 1.1 PRO",
+    "description": "Nous connaissons une demande sans précédent pour Flux 1.1 PRO. Pour garantir la meilleure expérience à tous les utilisateurs, nous avons temporairement suspendu les essais gratuits. Rejoignez notre liste d'attente, et une fois approuvé, nous vous fournirons des crédits d'essai gratuits dès que possible.",
+    "emailPlaceholder": "Entrez votre adresse e-mail",
+    "joining": "Soumission en cours...",
+    "joinButton": "Rejoindre la liste d'attente",
+    "successMessage": "Merci d'avoir rejoint notre liste d'attente ! Nous examinerons votre demande et vous enverrons des crédits d'essai gratuits une fois approuvée.",
+    "errorMessage": "Erreur : {{error}}. Veuillez réessayer.",
+    "bonusOffer": "🎉 Offre spéciale : Obtenez 1 crédit bonus lorsque vous rejoignez notre liste d'attente et une fois approuvé !",
+    "capacityNotice": "🚀 Alerte de forte demande : Nos serveurs sont actuellement à pleine capacité. Rejoignez la liste d'attente pour un accès prioritaire à Flux 1.1 PRO.",
+    "reviewProcess": "Notre équipe examinera les demandes de la liste d'attente et distribuera des crédits d'essai gratuits pour Flux 1.1 PRO au fur et à mesure que la capacité sera disponible.",
+    "loginAndJoinButton": "Se connecter et rejoindre la liste d'attente"
+  },
+  "common": {
+    "logoAlt": "Logo Flux 1.1 PRO"
+  }
+}

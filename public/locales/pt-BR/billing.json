@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Faturamento e Assinaturas | Nome do seu Serviço",
+    "description": "Gerencie suas assinaturas, visualize o histórico de faturamento e atualize as informações de pagamento."
+  },
+  "title": "Faturamento e Assinaturas",
+  "description": "Gerencie suas assinaturas e informações de faturamento",
+  "loading": "Carregando...",
+  "currentPlan": "Plano Atual",
+  "credits": "Créditos Disponíveis",
+  "status": "Status",
+  "renewalDate": "Próxima renovação em {{date}}",
+  "cancelAtPeriodEnd": "Cancela em {{date}}",
+  "cancelAt": "Agendado para cancelar em {{date}}",
+  "canceledAt": "Cancelado em {{date}}",
+  "cancelSubscription": "Cancelar Assinatura",
+  "cancelConfirmation": "Tem certeza de que deseja cancelar sua assinatura?",
+  "cancelSuccess": "Sua assinatura foi cancelada com sucesso",
+  "cancelError": "Ocorreu um erro ao cancelar sua assinatura. Por favor, tente novamente.",
+  "noPlan": "Sem Assinatura Ativa",
+  "noPlanDescription": "Você não tem uma assinatura ativa no momento. Escolha um plano para começar.",
+  "viewPlans": "Ver Planos",
+  "billingHistory": "Histórico de Faturamento",
+  "subscriptionStatus": {
+    "active": "Ativa",
+    "canceled": "Cancelada",
+    "incomplete": "Incompleta",
+    "incomplete_expired": "Expirada (Incompleta)",
+    "past_due": "Atrasada",
+    "trialing": "Em Teste",
+    "unpaid": "Não Paga"
+  },
+  "interval": {
+    "day": "dia",
+    "week": "semana",
+    "month": "mês",
+    "year": "ano"
+  },
+  "errors": {
+    "fetchFailed": "Falha ao buscar dados da assinatura. Por favor, tente novamente.",
+    "updateFailed": "Falha ao atualizar a assinatura. Por favor, tente novamente.",
+    "general": "Ocorreu um erro. Por favor, tente novamente mais tarde."
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "料金プラン - サービス名",
+    "description": "あなたのニーズに合った最適なプランをお選びください"
+  },
+  "title": "シンプルで固定の料金プラン",
+  "description": "シンプルで固定の料金プラン。",
+  "oneTimePurchase": "一回限りの購入",
+  "subscription": "サブスクリプション",
+  "forCredits": "{{credits}}クレジット分",
+  "pricePerCredit": "1クレジットあたり{{price}}円",
+  "buyNow": "今すぐ購入",
+  "subscribe": "サブスクリプション申込",
+  "perMonth": "月額",
+  "oneTime": "一回限り",
+  "popular": "人気",
+  "plans": {
+    "One-Time": {
+      "name": "一回限りの購入"
+    },
+    "Basic": {
+      "name": "ベーシックプラン"
+    },
+    "Plus": {
+      "name": "プラスプラン"
+    },
+    "Pro": {
+      "name": "プロプラン"
+    }
+  },
+  "sellingPoints": {
+    "noWatermark": "ウォーターマークなし",
+    "oneVideoPerCredit": "1クレジット = 1動画生成",
+    "downloadVideo": "動画ダウンロード",
+    "privateGenerations": "プライベート生成"
+  },
+  "subscriptionRecommendation": "複数のプランに同時に登録でき、簡単にサブスクリプションを管理できるため、サブスクリプションをお勧めします。",
+  "viewBillingPage": "請求ページを表示"
+}

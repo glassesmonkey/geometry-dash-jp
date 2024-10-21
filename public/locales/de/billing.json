@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Abrechnung & Abonnements | Ihr Servicename",
+    "description": "Verwalten Sie Ihre Abonnements, sehen Sie sich den Abrechnungsverlauf an und aktualisieren Sie Ihre Zahlungsinformationen."
+  },
+  "title": "Abrechnung & Abonnements",
+  "description": "Verwalten Sie Ihre Abonnements und Abrechnungsinformationen",
+  "loading": "Wird geladen...",
+  "currentPlan": "Aktueller Plan",
+  "credits": "Verfügbare Guthaben",
+  "status": "Status",
+  "renewalDate": "Nächste Erneuerung am {{date}}",
+  "cancelAtPeriodEnd": "Wird am {{date}} gekündigt",
+  "cancelAt": "Geplante Kündigung am {{date}}",
+  "canceledAt": "Gekündigt am {{date}}",
+  "cancelSubscription": "Abonnement kündigen",
+  "cancelConfirmation": "Sind Sie sicher, dass Sie Ihr Abonnement kündigen möchten?",
+  "cancelSuccess": "Ihr Abonnement wurde erfolgreich gekündigt",
+  "cancelError": "Bei der Kündigung Ihres Abonnements ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+  "noPlan": "Kein aktives Abonnement",
+  "noPlanDescription": "Sie haben derzeit kein aktives Abonnement. Wählen Sie einen Plan, um zu beginnen.",
+  "viewPlans": "Pläne anzeigen",
+  "billingHistory": "Abrechnungsverlauf",
+  "subscriptionStatus": {
+    "active": "Aktiv",
+    "canceled": "Gekündigt",
+    "incomplete": "Unvollständig",
+    "incomplete_expired": "Abgelaufen (Unvollständig)",
+    "past_due": "Überfällig",
+    "trialing": "Testphase",
+    "unpaid": "Unbezahlt"
+  },
+  "interval": {
+    "day": "Tag",
+    "week": "Woche",
+    "month": "Monat",
+    "year": "Jahr"
+  },
+  "errors": {
+    "fetchFailed": "Abonnementdaten konnten nicht abgerufen werden. Bitte versuchen Sie es erneut.",
+    "updateFailed": "Abonnement konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut.",
+    "general": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später erneut."
+  }
+}

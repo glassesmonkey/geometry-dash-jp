@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "요금제 - 서비스명",
+    "description": "귀하의 필요에 맞는 완벽한 플랜을 선택하세요"
+  },
+  "title": "간단하고 고정된 요금제",
+  "description": "간단하고 고정된 요금제입니다.",
+  "oneTimePurchase": "일회성 구매",
+  "subscription": "구독",
+  "forCredits": "{{credits}}크레딧에 대해",
+  "pricePerCredit": "크레딧당 {{price}}원",
+  "buyNow": "지금 구매하기",
+  "subscribe": "구독하기",
+  "perMonth": "월",
+  "oneTime": "일회성",
+  "popular": "인기",
+  "plans": {
+    "One-Time": {
+      "name": "일회성 구매"
+    },
+    "Basic": {
+      "name": "기본 플랜"
+    },
+    "Plus": {
+      "name": "플러스 플랜"
+    },
+    "Pro": {
+      "name": "프로 플랜"
+    }
+  },
+  "sellingPoints": {
+    "noWatermark": "워터마크 없음",
+    "oneVideoPerCredit": "1크레딧 = 1비디오 생성",
+    "downloadVideo": "비디오 다운로드",
+    "privateGenerations": "비공개 생성"
+  },
+  "subscriptionRecommendation": "여러 플랜을 동시에 구독하고 구독을 쉽게 관리할 수 있으므로 구독을 권장합니다.",
+  "viewBillingPage": "결제 페이지 보기"
+}

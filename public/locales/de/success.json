@@ -1,0 +1,16 @@
+{
+  "loading": "Wird geladen...",
+  "meta": {
+    "title": "Zahlung erfolgreich - Vielen Dank!",
+    "description": "Ihre Zahlung wurde erfolgreich verarbeitet. Vielen Dank für Ihren Einkauf!"
+  },
+  "thankYou": "Vielen Dank!",
+  "paymentSuccessful": "Ihre Zahlung war erfolgreich.",
+  "goToMainFeature": "Zum AI Hug Generator",
+  "error": "Fehler",
+  "errors": {
+    "noSessionId": "Keine Sitzungs-ID gefunden. Bitte versuchen Sie Ihren Kauf erneut.",
+    "invalidSession": "Ungültige Sitzung. Bitte kontaktieren Sie den Kundensupport, wenn das Problem weiterhin besteht."
+  },
+  "backToPricing": "Zurück zur Preisübersicht"
+}

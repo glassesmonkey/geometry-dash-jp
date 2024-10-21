@@ -1,0 +1,103 @@
+{
+    "meta": {
+      "title": "AI Expand Image | Image Extender for any platform"
+    },
+    "header": {
+      "buyCredits": "Buy credits",
+      "signUpPromo": "🎁 Sign up now and get 5 credit free!",
+      "signInWithGoogle": "Sign in with Google"
+    },
+    "dragDropUpload": {
+      "dragDropText": "Drag & Drop your image here",
+      "orClickText": "or click to select a file",
+      "supportedFormats": "Supported formats: JPG,JPEG,SVG, PNG, GIF, WEBP",
+      "maxFileSize": "Maximum file size: 25MB",
+      "fileTooLarge": "File is too large. Maximum size is 25MB."
+    },
+    "modeSwitcher": {
+      "speedMode": "Speed Mode",
+      "highQualityMode": "High Quality Mode",
+      "speedModeDescription": "Speed Mode: Fast results (usually within 1 minute), but lower image quality compared to High Quality Mode.",
+      "highQualityModeDescription": "High Quality Mode: Image generation typically takes about 2 minutes, but produces better quality results."
+    },
+    "templateSelection": {
+      "label": "Template",
+      "description": "Select the image ratio or purpose you want."
+    },
+    "imagePosition": {
+      "label": "Image Position",
+      "description": "Select where to place your original image in the expanded canvas"
+    },
+    "prompt": {
+      "label": "Prompt (optional)",
+      "description": "Describe image content for AI expansion. Leave blank for auto-analysis.",
+      "placeholder": "Enter prompt"
+    },
+    "amount": {
+      "label": "Amount",
+      "description": "Choose how many expanded images to generate"
+    },
+    "credits": {
+      "label": "Credits left"
+    },
+    "extendImage": {
+      "buttonText": "Extend image!",
+      "loading": "Loading..."
+    },
+    "errorToast": {
+      "defaultError": "Encountered an issue. Please try again."
+    },
+    "rechargeModal": {
+      "title": "Insufficient Credits",
+      "message": "You don't have enough credits to perform this action. Would you like to recharge?",
+      "rechargeButton": "Recharge",
+      "cancelButton": "Cancel"
+    },
+    "loadingOverlay": {
+      "enhancingImage": "Enhancing image...",
+      "uploadingImage": "Uploading image...",
+      "aiRecognizing": "AI recognizes images...",
+      "expandingImage": "Expand Image",
+      "processingResults": "Processing results",
+      "completed": "Completed",
+      "highQualityModeMessage": "In High-quality mode takes about 2 minutes. Feel free to close the tab or refresh - your images will still be created and will show up in 'Your Generated Images' when ready. Don't worry, you'll get your credits back if anything goes wrong.",
+      "complete": "Complete",
+      "warning": "Please do not close this page. Closing may affect the result generation."
+    },
+    "expandedImagesGallery": {
+      "title": "Your Generated Images"
+    },
+    "improvedCanvas": {
+      "proTip": "💡 Pro tip: We recommend setting the slider to 100% for the best expansion results!"
+    },
+    "userDropdownMenu": {
+      "credits": "Credits",
+      "loading": "Loading...",
+      "logout": "Logout"
+    },
+    "templates": {
+        "9x16Portrait": "9:16 Portrait",
+        "16x9Landscape": "16:9 Landscape",
+        "1x1Square": "1:1 Square",
+        "InstagramPost": "Instagram Post",
+        "InstagramPortrait": "Instagram Portrait",
+        "InstagramStory": "Instagram Story",
+        "YouTubeThumbnail": "YouTube Thumbnail",
+        "FacebookPost": "Facebook Post",
+        "FacebookCover": "Facebook Cover",
+        "PinterestPin": "Pinterest Pin",
+        "XPost": "X (former Twitter) Post",
+        "XCover": "X (former Twitter) Cover",
+        "TikTokVideoPortrait": "TikTok Video Cover (Portrait)",
+        "TikTokVideoLandscape": "TikTok Video Cover (Landscape)"
+      },
+      "imagePositionselect": {
+        "options": {
+          "center": "Center",
+          "topLeft": "Top Left",
+          "topRight": "Top Right",
+          "bottomLeft": "Bottom Left",
+          "bottomRight": "Bottom Right"
+        }
+      }
+  }

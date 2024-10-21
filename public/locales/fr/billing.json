@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Facturation et Abonnements | Nom de votre Service",
+    "description": "Gérez vos abonnements, consultez l'historique de facturation et mettez à jour vos informations de paiement."
+  },
+  "title": "Facturation et Abonnements",
+  "description": "Gérez vos abonnements et informations de facturation",
+  "loading": "Chargement...",
+  "currentPlan": "Plan Actuel",
+  "credits": "Crédits Disponibles",
+  "status": "Statut",
+  "renewalDate": "Prochain renouvellement le {{date}}",
+  "cancelAtPeriodEnd": "Annulation prévue le {{date}}",
+  "cancelAt": "Programmé pour être annulé le {{date}}",
+  "canceledAt": "Annulé le {{date}}",
+  "cancelSubscription": "Annuler l'Abonnement",
+  "cancelConfirmation": "Êtes-vous sûr de vouloir annuler votre abonnement ?",
+  "cancelSuccess": "Votre abonnement a été annulé avec succès",
+  "cancelError": "Une erreur s'est produite lors de l'annulation de votre abonnement. Veuillez réessayer.",
+  "noPlan": "Aucun Abonnement Actif",
+  "noPlanDescription": "Vous n'avez actuellement aucun abonnement actif. Choisissez un plan pour commencer.",
+  "viewPlans": "Voir les Plans",
+  "billingHistory": "Historique de Facturation",
+  "subscriptionStatus": {
+    "active": "Actif",
+    "canceled": "Annulé",
+    "incomplete": "Incomplet",
+    "incomplete_expired": "Expiré (Incomplet)",
+    "past_due": "En Retard",
+    "trialing": "En Essai",
+    "unpaid": "Non Payé"
+  },
+  "interval": {
+    "day": "jour",
+    "week": "semaine",
+    "month": "mois",
+    "year": "année"
+  },
+  "errors": {
+    "fetchFailed": "Échec de la récupération des données d'abonnement. Veuillez réessayer.",
+    "updateFailed": "Échec de la mise à jour de l'abonnement. Veuillez réessayer.",
+    "general": "Une erreur s'est produite. Veuillez réessayer plus tard."
+  }
+}

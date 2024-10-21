@@ -1,0 +1,36 @@
+{
+    "meta": {
+      "title": "Pricing - Your Service Name",
+      "description": "Choose the perfect plan for your needs"
+    },
+    "title": "Simple & Fixed Pricing",
+    "description": "Choose the plan that fits your needs.",
+    "subscription": "Subscription",
+    "forCredits": "For {{credits}} credits",
+    "pricePerCredit": "${{price}} per credit",
+    "subscribe": "Subscribe",
+    "perMonth": "mo",
+    "popular": "Most Popular",
+    "plans": {
+      "Base": {
+        "name": "Base Plan"
+      },
+      "Plus": {
+        "name": "Plus Plan"
+      },
+      "Advanced": {
+        "name": "Advanced Plan"
+      },
+      "Enterprise": {
+        "name": "Enterprise Plan"
+      }
+    },
+    "sellingPoints": {
+      "fullAccessToModels": "Full Access to All Models",
+      "savePrivateImages": "Save Private Images",
+      "removeWatermark": "Remove Watermark",
+      "pricePerImage": "Price per Image: ${{price}}"
+    },
+    "subscriptionRecommendation": "Choose the plan that best fits your needs. All plans include full access to our features.",
+    "viewBillingPage": "View Billing Page"
+  }

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Preise - Ihr Servicename",
+    "description": "Wählen Sie den perfekten Plan für Ihre Bedürfnisse"
+  },
+  "title": "Einfache & feste Preise",
+  "description": "Einfache & feste Preisgestaltung.",
+  "oneTimePurchase": "Einmaliger Kauf",
+  "subscription": "Abonnement",
+  "forCredits": "Für {{credits}} Guthaben",
+  "pricePerCredit": "{{price}}€ pro Guthaben",
+  "buyNow": "Jetzt kaufen",
+  "subscribe": "Abonnieren",
+  "perMonth": "pro Monat",
+  "oneTime": "einmalig",
+  "popular": "Beliebt",
+  "plans": {
+    "One-Time": {
+      "name": "Einmaliger Kauf"
+    },
+    "Basic": {
+      "name": "Basis-Plan"
+    },
+    "Plus": {
+      "name": "Plus-Plan"
+    },
+    "Pro": {
+      "name": "Pro-Plan"
+    }
+  },
+  "sellingPoints": {
+    "noWatermark": "Kein Wasserzeichen",
+    "oneVideoPerCredit": "1 Guthaben = 1 Videogenerierung",
+    "downloadVideo": "Video herunterladen",
+    "privateGenerations": "Private Generierungen"
+  },
+  "subscriptionRecommendation": "Wir empfehlen ein Abonnement, da Sie gleichzeitig mehrere Pläne abonnieren und Ihre Abonnements einfach verwalten können.",
+  "viewBillingPage": "Abrechnungsseite anzeigen"
+}

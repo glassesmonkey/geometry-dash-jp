@@ -1,0 +1,22 @@
+{
+  "waitlist": {
+    "meta": {
+      "title": "Treten Sie der Flux 1.1 PRO Warteliste bei | Fortschrittlicher KI-Bildgenerator",
+      "description": "Aufgrund der hohen Nachfrage ist Flux 1.1 PRO derzeit ausgelastet. Treten Sie unserer Warteliste bei, um die Chance zu erhalten, nach Genehmigung kostenlose Testguthaben zu erhalten."
+    },
+    "title": "Treten Sie der Flux 1.1 PRO Warteliste bei",
+    "description": "Wir erleben eine beispiellose Nachfrage nach Flux 1.1 PRO. Um allen Nutzern die bestmögliche Erfahrung zu bieten, haben wir kostenlose Testversionen vorübergehend pausiert. Treten Sie unserer Warteliste bei, und nach Genehmigung stellen wir Ihnen so schnell wie möglich kostenlose Testguthaben zur Verfügung.",
+    "emailPlaceholder": "Geben Sie Ihre E-Mail-Adresse ein",
+    "joining": "Wird übermittelt...",
+    "joinButton": "Der Warteliste beitreten",
+    "successMessage": "Vielen Dank für Ihren Beitritt zur Warteliste! Wir werden Ihre Bewerbung prüfen und Ihnen nach Genehmigung kostenlose Testguthaben zusenden.",
+    "errorMessage": "Fehler: {{error}}. Bitte versuchen Sie es erneut.",
+    "bonusOffer": "🎉 Sonderangebot: Erhalten Sie 1 Bonusguthaben, wenn Sie unserer Warteliste beitreten und nach Genehmigung!",
+    "capacityNotice": "🚀 Hohe Nachfrage-Warnung: Unsere Server sind derzeit voll ausgelastet. Treten Sie der Warteliste bei, um vorrangigen Zugang zu Flux 1.1 PRO zu erhalten.",
+    "reviewProcess": "Unser Team wird die Wartelistenanträge prüfen und kostenlose Testguthaben für Flux 1.1 PRO verteilen, sobald Kapazitäten verfügbar sind.",
+    "loginAndJoinButton": "Anmelden & Warteliste beitreten"
+  },
+  "common": {
+    "logoAlt": "Flux 1.1 PRO Logo"
+  }
+}

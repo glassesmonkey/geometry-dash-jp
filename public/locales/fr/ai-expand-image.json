@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "AI Expand Image | Extenseur d'image pour toute plateforme"
+  },
+  "header": {
+    "buyCredits": "Acheter des crédits",
+    "signUpPromo": "🎁 Inscrivez-vous maintenant et obtenez 5 crédits gratuits !",
+    "signInWithGoogle": "Se connecter avec Google"
+  },
+  "dragDropUpload": {
+    "dragDropText": "Faites glisser et déposez votre image ici",
+    "orClickText": "ou cliquez pour sélectionner un fichier",
+    "supportedFormats": "Formats supportés :JPG,JPEG,SVG, PNG, GIF, WEBP",
+    "maxFileSize": "Taille maximale du fichier : 25 Mo",
+    "fileTooLarge": "Le fichier est trop volumineux. La taille maximale est de 25 Mo."
+  },
+  "modeSwitcher": {
+    "speedMode": "Mode Rapide",
+    "highQualityMode": "Mode Haute Qualité",
+    "speedModeDescription": "Mode Rapide : Résultats rapides (généralement en moins d'une minute), mais qualité d'image inférieure par rapport au Mode Haute Qualité.",
+    "highQualityModeDescription": "Mode Haute Qualité : La génération d'image prend généralement environ 2 minutes, mais produit des résultats de meilleure qualité."
+  },
+  "templateSelection": {
+    "label": "Modèle",
+    "description": "Sélectionnez le ratio d'image ou l'objectif souhaité."
+  },
+  "imagePosition": {
+    "label": "Position de l'image",
+    "description": "Choisissez où placer votre image originale sur le canevas étendu"
+  },
+  "prompt": {
+    "label": "Indication (facultatif)",
+    "description": "Décrivez le contenu de l'image pour l'expansion par l'IA. Laissez vide pour une analyse automatique.",
+    "placeholder": "Entrez une indication"
+  },
+  "amount": {
+    "label": "Quantité",
+    "description": "Choisissez combien d'images étendues générer"
+  },
+  "credits": {
+    "label": "Crédits restants"
+  },
+  "extendImage": {
+    "buttonText": "Étendre l'image !",
+    "loading": "Chargement..."
+  },
+  "errorToast": {
+    "defaultError": "Un problème est survenu. Veuillez réessayer."
+  },
+  "rechargeModal": {
+    "title": "Crédits insuffisants",
+    "message": "Vous n'avez pas assez de crédits pour effectuer cette action. Voulez-vous recharger ?",
+    "rechargeButton": "Recharger",
+    "cancelButton": "Annuler"
+  },
+  "loadingOverlay": {
+    "enhancingImage": "Amélioration de l'image...",
+    "uploadingImage": "Téléchargement de l'image...",
+    "aiRecognizing": "L'IA reconnaît les images...",
+    "expandingImage": "Extension de l'image",
+    "processingResults": "Traitement des résultats",
+    "completed": "Terminé",
+    "highQualityModeMessage": "En mode Haute qualité, cela prend environ 2 minutes. Vous pouvez fermer l'onglet ou actualiser - vos images seront toujours créées et apparaîtront dans 'Vos images générées' une fois prêtes. Ne vous inquiétez pas, vous récupérerez vos crédits si quelque chose ne va pas.",
+    "complete": "Terminé",
+    "warning": "Veuillez ne pas fermer cette page. La fermeture pourrait affecter la génération du résultat."
+  },
+  "expandedImagesGallery": {
+    "title": "Vos images générées"
+  },
+  "improvedCanvas": {
+    "proTip": "💡 Astuce pro : Nous recommandons de régler le curseur à 100% pour les meilleurs résultats d'extension !"
+  },
+  "userDropdownMenu": {
+    "credits": "Crédits",
+    "loading": "Chargement...",
+    "logout": "Déconnexion"
+  },
+  "templates": {
+    "9x16Portrait": "Portrait 9:16",
+    "16x9Landscape": "Paysage 16:9",
+    "1x1Square": "Carré 1:1",
+    "InstagramPost": "Publication Instagram",
+    "InstagramPortrait": "Portrait Instagram",
+    "InstagramStory": "Story Instagram",
+    "YouTubeThumbnail": "Vignette YouTube",
+    "FacebookPost": "Publication Facebook",
+    "FacebookCover": "Couverture Facebook",
+    "PinterestPin": "Épingle Pinterest",
+    "XPost": "Publication X (ancien Twitter)",
+    "XCover": "Couverture X (ancien Twitter)",
+    "TikTokVideoPortrait": "Couverture vidéo TikTok (Portrait)",
+    "TikTokVideoLandscape": "Couverture vidéo TikTok (Paysage)"
+  },
+  "imagePositionselect": {
+    "options": {
+      "center": "Centre",
+      "topLeft": "En haut à gauche",
+      "topRight": "En haut à droite",
+      "bottomLeft": "En bas à gauche",
+      "bottomRight": "En bas à droite"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "AI Expand Image | Ampliador de imágenes para cualquier plataforma"
+  },
+  "header": {
+    "buyCredits": "Comprar créditos",
+    "signUpPromo": "🎁 ¡Regístrate ahora y obtén 5 créditos gratis!",
+    "signInWithGoogle": "Iniciar sesión con Google"
+  },
+  "dragDropUpload": {
+    "dragDropText": "Arrastra y suelta tu imagen aquí",
+    "orClickText": "o haz clic para seleccionar un archivo",
+    "supportedFormats": "Formatos admitidos: JPG,JPEG,SVG, PNG, GIF, WEBP",
+    "maxFileSize": "Tamaño máximo de archivo: 25MB",
+    "fileTooLarge": "El archivo es demasiado grande. El tamaño máximo es de 25MB."
+  },
+  "modeSwitcher": {
+    "speedMode": "Modo Rápido",
+    "highQualityMode": "Modo Alta Calidad",
+    "speedModeDescription": "Modo Rápido: Resultados veloces (generalmente en menos de 1 minuto), pero con menor calidad de imagen en comparación con el Modo Alta Calidad.",
+    "highQualityModeDescription": "Modo Alta Calidad: La generación de la imagen suele tardar unos 2 minutos, pero produce resultados de mejor calidad."
+  },
+  "templateSelection": {
+    "label": "Plantilla",
+    "description": "Selecciona la proporción o el propósito de la imagen que deseas."
+  },
+  "imagePosition": {
+    "label": "Posición de la imagen",
+    "description": "Elige dónde colocar tu imagen original en el lienzo ampliado"
+  },
+  "prompt": {
+    "label": "Indicación (opcional)",
+    "description": "Describe el contenido de la imagen para la expansión con IA. Deja en blanco para un análisis automático.",
+    "placeholder": "Ingresa una indicación"
+  },
+  "amount": {
+    "label": "Cantidad",
+    "description": "Elige cuántas imágenes ampliadas generar"
+  },
+  "credits": {
+    "label": "Créditos restantes"
+  },
+  "extendImage": {
+    "buttonText": "¡Ampliar imagen!",
+    "loading": "Cargando..."
+  },
+  "errorToast": {
+    "defaultError": "Se ha producido un problema. Por favor, inténtalo de nuevo."
+  },
+  "rechargeModal": {
+    "title": "Créditos insuficientes",
+    "message": "No tienes suficientes créditos para realizar esta acción. ¿Quieres recargar?",
+    "rechargeButton": "Recargar",
+    "cancelButton": "Cancelar"
+  },
+  "loadingOverlay": {
+    "enhancingImage": "Mejorando la imagen...",
+    "uploadingImage": "Subiendo la imagen...",
+    "aiRecognizing": "La IA está reconociendo las imágenes...",
+    "expandingImage": "Ampliando la imagen",
+    "processingResults": "Procesando resultados",
+    "completed": "Completado",
+    "highQualityModeMessage": "En el modo de alta calidad tarda unos 2 minutos. Puedes cerrar la pestaña o actualizar - tus imágenes se seguirán creando y aparecerán en 'Tus imágenes generadas' cuando estén listas. No te preocupes, recuperarás tus créditos si algo sale mal.",
+    "complete": "Completado",
+    "warning": "Por favor, no cierres esta página. Cerrarla puede afectar a la generación del resultado."
+  },
+  "expandedImagesGallery": {
+    "title": "Tus imágenes generadas"
+  },
+  "improvedCanvas": {
+    "proTip": "💡 Consejo profesional: ¡Recomendamos ajustar el deslizador al 100% para obtener los mejores resultados de ampliación!"
+  },
+  "userDropdownMenu": {
+    "credits": "Créditos",
+    "loading": "Cargando...",
+    "logout": "Cerrar sesión"
+  },
+  "templates": {
+      "9x16Portrait": "Retrato 9:16",
+      "16x9Landscape": "Paisaje 16:9",
+      "1x1Square": "Cuadrado 1:1",
+      "InstagramPost": "Publicación de Instagram",
+      "InstagramPortrait": "Retrato de Instagram",
+      "InstagramStory": "Historia de Instagram",
+      "YouTubeThumbnail": "Miniatura de YouTube",
+      "FacebookPost": "Publicación de Facebook",
+      "FacebookCover": "Portada de Facebook",
+      "PinterestPin": "Pin de Pinterest",
+      "XPost": "Publicación de X (antes Twitter)",
+      "XCover": "Portada de X (antes Twitter)",
+      "TikTokVideoPortrait": "Portada de video de TikTok (Vertical)",
+      "TikTokVideoLandscape": "Portada de video de TikTok (Horizontal)"
+    },
+    "imagePositionselect": {
+      "options": {
+        "center": "Centro",
+        "topLeft": "Arriba a la izquierda",
+        "topRight": "Arriba a la derecha",
+        "bottomLeft": "Abajo a la izquierda",
+        "bottomRight": "Abajo a la derecha"
+      }
+    }
+}

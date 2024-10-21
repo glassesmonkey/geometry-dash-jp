@@ -1,0 +1,16 @@
+{
+  "loading": "Caricamento in corso...",
+  "meta": {
+    "title": "Pagamento riuscito - Grazie!",
+    "description": "Il tuo pagamento è stato elaborato con successo. Grazie per il tuo acquisto!"
+  },
+  "thankYou": "Grazie!",
+  "paymentSuccessful": "Il tuo pagamento è andato a buon fine.",
+  "goToMainFeature": "Vai al generatore AI Hug",
+  "error": "Errore",
+  "errors": {
+    "noSessionId": "Nessun ID sessione trovato. Per favore, riprova il tuo acquisto.",
+    "invalidSession": "Sessione non valida. Contatta il supporto clienti se il problema persiste."
+  },
+  "backToPricing": "Torna ai prezzi"
+}

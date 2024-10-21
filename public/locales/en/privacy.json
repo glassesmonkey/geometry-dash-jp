@@ -1,0 +1,91 @@
+{
+    "meta": {
+        "title": "Privacy Policy - Evergreen Systems LLC"
+    },
+    "title": "Evergreen Systems LLC customer privacy notice",
+    "intro": "This privacy notice tells you what to expect us to do with your personal information.",
+    "contact": {
+        "title": "Contact details",
+        "email": "Email"
+    },
+    "info": {
+        "title": "What information we collect, use, and why",
+        "services": "We collect or use the following information to provide services and goods, including delivery",
+        "payment": "Payment details (including card or bank information for transfers and direct debits)",
+        "photos": "Photographs or video recordings",
+        "email": "Email addresses and email avatars",
+        "accounts": "We collect or use the following information for the operation of customer accounts and guarantees"
+    },
+    "lawful": {
+        "title": "Lawful bases and data protection rights",
+        "intro": "Under UK data protection law, we must have a \"lawful basis\" for collecting and using your personal information. There is a list of possible lawful bases in the UK GDPR.",
+        "rights": "Your data protection rights are:",
+        "access": "Your right of access - You have the right to ask us for copies of your personal information.",
+        "rectification": "Your right to rectification - You have the right to ask us to correct or delete personal information you think is inaccurate or incomplete.",
+        "erasure": "Your right to erasure - You have the right to ask us to delete your personal information.",
+        "restriction": "Your right to restriction of processing - You have the right to ask us to limit how we can use your personal information.",
+        "object": "Your right to object to processing - You have the right to object to the processing of your personal data.",
+        "portability": "Your right to data portability - You have the right to ask that we transfer the personal information you gave us to another organisation, or to you.",
+        "withdraw": "Your right to withdraw consent - When we use consent as our lawful basis you have the right to withdraw your consent at any time.",
+        "response": "If you make a request, we must respond to you without undue delay and in any event within one month.",
+        "request": "To make a data protection rights request, please contact us using the contact details at the top of this privacy notice.",
+        "bases": {
+            "title": "Our lawful bases for the collection and use of your data",
+            "services": "Our lawful bases for collecting or using personal information to provide services and goods are:",
+            "accounts": "Our lawful bases for collecting or using personal information for the operation of customer accounts and guarantees are:",
+            "consent": "Consent - we have permission from you after we gave you all the relevant information. All of your data protection rights may apply, except the right to object. To be clear, you do have the right to withdraw your consent at any time."
+        }
+    },
+    "source": {
+        "title": "Where we get personal information from",
+        "direct": "Directly from you"
+    },
+    "retention": {
+        "title": "How long we keep information",
+        "intro": "We collect and retain the following types of personal information for the specified periods:",
+        "email": {
+            "title": "User email address",
+            "period": "Retention period: For the duration of account activity and 2 years after account closure",
+            "reason": "Reason for retention: Account management, notifications, and authentication"
+        },
+        "avatar": {
+            "title": "User email avatar",
+            "period": "Retention period: For the duration of account activity and 30 days after account closure",
+            "reason": "Reason for retention: To personalize user experience"
+        },
+        "original": {
+            "title": "Original images uploaded by users",
+            "period": "Retention period: 1 day after processing is complete",
+            "reason": "Reason for retention: To allow users to reprocess images within a short timeframe"
+        },
+        "processed": {
+            "title": "Processed images",
+            "period": "Retention period: 90 days after creation",
+            "reason": "Reason for retention: To allow users to download and share the processed images"
+        },
+        "payment": {
+            "title": "Stripe payment records",
+            "period": "Retention period: 7 years",
+            "reason": "Reason for retention: To comply with financial and tax regulations"
+        },
+        "deletion": "After the retention period ends, we securely delete or anonymize this data. Users can request deletion of their personal data at any time, and we will process such requests within 30 days unless we are required by law to retain the data.",
+        "backups": "Please note that even after you request deletion of your data, we may retain some information in our backup systems for a period of time for legal and security reasons.",
+        "review": "We regularly review our retention periods to ensure we only keep personal data for as long as necessary for the purposes we collected it for, in line with GDPR requirements."
+    },
+    "sharing": {
+        "title": "Who we share information with",
+        "processors": "Data processors",
+        "list": "Our data processors are: cloudflare, replicate, neon, supabase, picsart, stripe",
+        "activities": "These data processors perform the following activities for us: Store the user's email address, store the user's uploaded pictures, process the user's uploaded pictures, store the processed pictures, record the user's credit card information"
+      },
+    "complaint": {
+        "title": "How to complain",
+        "intro": "If you have any concerns about our use of your personal data, you can make a complaint to us using the contact details at the top of this privacy notice.",
+        "ico": "If you remain unhappy with how we've used your data after raising a complaint with us, you can also complain to the ICO.",
+        "address": "Information Commissioner's Office\nWycliffe House\nWater Lane\nWilmslow\nCheshire\nSK9 5AF",
+        "helpline": "Helpline number",
+        "website": "Website"
+    },
+    "lastUpdated": "Last updated"
+
+}

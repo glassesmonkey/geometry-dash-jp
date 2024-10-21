@@ -1,0 +1,16 @@
+{
+  "loading": "Cargando...",
+  "meta": {
+    "title": "Pago Exitoso - ¡Gracias!",
+    "description": "Su pago ha sido procesado con éxito. ¡Gracias por su compra!"
+  },
+  "thankYou": "¡Gracias!",
+  "paymentSuccessful": "Su pago fue exitoso.",
+  "goToMainFeature": "Ir al Generador AI Hug",
+  "error": "Error",
+  "errors": {
+    "noSessionId": "No se encontró ID de sesión. Por favor, intente su compra nuevamente.",
+    "invalidSession": "Sesión inválida. Por favor, contacte al soporte al cliente si el problema persiste."
+  },
+  "backToPricing": "Volver a Precios"
+}

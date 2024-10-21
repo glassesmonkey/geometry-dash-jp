@@ -1,0 +1,45 @@
+{
+    "meta": {
+      "title": "Billing & Subscriptions | Your Service Name",
+      "description": "Manage your subscriptions, view billing history, and update payment information."
+    },
+    "title": "Billing & Subscriptions",
+    "description": "Manage your subscriptions and billing information",
+    "loading": "Loading...",
+    "currentPlan": "Current Plan",
+    "credits": "Available Credits",
+    "status": "Status",
+    "renewalDate": "Next renewal on {{date}}",
+    "cancelAtPeriodEnd": "Cancels on {{date}}",
+    "cancelAt": "Scheduled to cancel on {{date}}",
+    "canceledAt": "Canceled on {{date}}",
+    "cancelSubscription": "Cancel Subscription",
+    "cancelConfirmation": "Are you sure you want to cancel your subscription?",
+    "cancelSuccess": "Your subscription has been cancelled successfully",
+    "cancelError": "An error occurred while cancelling your subscription. Please try again.",
+    "noPlan": "No Active Subscription",
+    "noPlanDescription": "You currently don't have an active subscription. Choose a plan to get started.",
+    "viewPlans": "View Plans",
+    "billingHistory": "Billing History",
+    "subscriptionStatus": {
+      "active": "Active",
+      "canceled": "Canceled",
+      "incomplete": "Incomplete",
+      "incomplete_expired": "Expired (Incomplete)",
+      "past_due": "Past Due",
+      "trialing": "Trial",
+      "unpaid": "Unpaid"
+      
+    },
+    "interval": {
+      "day": "day",
+      "week": "week",
+      "month": "month",
+      "year": "year"
+    },
+    "errors": {
+      "fetchFailed": "Failed to fetch subscription data. Please try again.",
+      "updateFailed": "Failed to update subscription. Please try again.",
+      "general": "An error occurred. Please try again later."
+    }
+  }

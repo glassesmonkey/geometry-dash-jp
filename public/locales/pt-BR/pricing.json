@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Preços - Nome do seu Serviço",
+    "description": "Escolha o plano perfeito para suas necessidades"
+  },
+  "title": "Preços Simples e Fixos",
+  "description": "Preços simples e fixos.",
+  "oneTimePurchase": "Compra Única",
+  "subscription": "Assinatura",
+  "forCredits": "Por {{credits}} créditos",
+  "pricePerCredit": "R${{price}} por crédito",
+  "buyNow": "Comprar Agora",
+  "subscribe": "Assinar",
+  "perMonth": "por mês",
+  "oneTime": "uma vez",
+  "popular": "Popular",
+  "plans": {
+    "One-Time": {
+      "name": "Compra Única"
+    },
+    "Basic": {
+      "name": "Plano Básico"
+    },
+    "Plus": {
+      "name": "Plano Plus"
+    },
+    "Pro": {
+      "name": "Plano Pro"
+    }
+  },
+  "sellingPoints": {
+    "noWatermark": "Sem marca d'água",
+    "oneVideoPerCredit": "1 crédito = 1 geração de vídeo",
+    "downloadVideo": "Baixar Vídeo",
+    "privateGenerations": "Gerações Privadas"
+  },
+  "subscriptionRecommendation": "Recomendamos a assinatura, pois você pode assinar vários planos simultaneamente e gerenciar facilmente suas assinaturas.",
+  "viewBillingPage": "Ver página de faturamento"
+}

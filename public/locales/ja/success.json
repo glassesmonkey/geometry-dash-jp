@@ -1,0 +1,16 @@
+{
+  "loading": "読み込み中...",
+  "meta": {
+    "title": "支払い成功 - ありがとうございます！",
+    "description": "お支払いが正常に処理されました。ご購入ありがとうございます！"
+  },
+  "thankYou": "ありがとうございます！",
+  "paymentSuccessful": "お支払いが完了しました。",
+  "goToMainFeature": "AI Hugジェネレーターへ",
+  "error": "エラー",
+  "errors": {
+    "noSessionId": "セッションIDが見つかりません。もう一度ご購入をお試しください。",
+    "invalidSession": "無効なセッションです。問題が解決しない場合はカスタマーサポートにお問い合わせください。"
+  },
+  "backToPricing": "料金プランに戻る"
+}

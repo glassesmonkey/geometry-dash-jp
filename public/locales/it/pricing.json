@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Prezzi - Nome del tuo Servizio",
+    "description": "Scegli il piano perfetto per le tue esigenze"
+  },
+  "title": "Prezzi Semplici e Fissi",
+  "description": "Prezzi semplici e fissi.",
+  "oneTimePurchase": "Acquisto Una Tantum",
+  "subscription": "Abbonamento",
+  "forCredits": "Per {{credits}} crediti",
+  "pricePerCredit": "€{{price}} per credito",
+  "buyNow": "Acquista Ora",
+  "subscribe": "Abbonati",
+  "perMonth": "al mese",
+  "oneTime": "una tantum",
+  "popular": "Popolare",
+  "plans": {
+    "One-Time": {
+      "name": "Acquisto Una Tantum"
+    },
+    "Basic": {
+      "name": "Piano Base"
+    },
+    "Plus": {
+      "name": "Piano Plus"
+    },
+    "Pro": {
+      "name": "Piano Pro"
+    }
+  },
+  "sellingPoints": {
+    "noWatermark": "Nessuna filigrana",
+    "oneVideoPerCredit": "1 credito = 1 generazione video",
+    "downloadVideo": "Scarica Video",
+    "privateGenerations": "Generazioni Private"
+  },
+  "subscriptionRecommendation": "Consigliamo l'abbonamento poiché puoi sottoscrivere più piani contemporaneamente e gestire facilmente i tuoi abbonamenti.",
+  "viewBillingPage": "Visualizza pagina di fatturazione"
+}

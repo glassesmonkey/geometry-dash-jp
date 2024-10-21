@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "AI 擴展圖像 | 適用於任何平台的圖像延伸工具"
+  },
+  "header": {
+    "buyCredits": "購買額度",
+    "signUpPromo": "🎁 立即註冊,獲得 5 次免費使用機會!",
+    "signInWithGoogle": "使用 Google 帳號登入"
+  },
+  "dragDropUpload": {
+    "dragDropText": "拖放您的圖像到這裡",
+    "orClickText": "或點擊選擇檔案",
+    "supportedFormats": "支援格式: JPG,JPEG,SVG, PNG, GIF, WEBP",
+    "maxFileSize": "最大檔案大小: 25MB",
+    "fileTooLarge": "檔案太大。最大大小為 25MB。"
+  },
+  "modeSwitcher": {
+    "speedMode": "快速模式",
+    "highQualityMode": "高品質模式",
+    "speedModeDescription": "快速模式: 快速得到結果(通常在 1 分鐘內),但圖像品質較高品質模式低。",
+    "highQualityModeDescription": "高品質模式: 圖像生成通常需要約 2 分鐘,但能產生更高品質的結果。"
+  },
+  "templateSelection": {
+    "label": "範本",
+    "description": "選擇您想要的圖像比例或用途。"
+  },
+  "imagePosition": {
+    "label": "圖像位置",
+    "description": "選擇將原始圖像放置在擴展畫布的哪個位置"
+  },
+  "prompt": {
+    "label": "提示詞 (選填)",
+    "description": "描述 AI 擴展的圖像內容。留空則自動分析。",
+    "placeholder": "輸入提示詞"
+  },
+  "amount": {
+    "label": "數量",
+    "description": "選擇要生成的擴展圖像數量"
+  },
+  "credits": {
+    "label": "剩餘額度"
+  },
+  "extendImage": {
+    "buttonText": "擴展圖像!",
+    "loading": "載入中..."
+  },
+  "errorToast": {
+    "defaultError": "遇到問題。請再試一次。"
+  },
+  "rechargeModal": {
+    "title": "額度不足",
+    "message": "您沒有足夠的額度執行此操作。是否要充值?",
+    "rechargeButton": "充值",
+    "cancelButton": "取消"
+  },
+  "loadingOverlay": {
+    "enhancingImage": "增強圖像中...",
+    "uploadingImage": "上傳圖像中...",
+    "aiRecognizing": "AI 正在識別圖像...",
+    "expandingImage": "擴展圖像",
+    "processingResults": "處理結果",
+    "completed": "已完成",
+    "highQualityModeMessage": "高品質模式需要約 2 分鐘。您可以隨時關閉分頁或重新整理 - 您的圖像仍會繼續生成,完成後會顯示在「您生成的圖像」中。如果出現任何問題,您的額度將會退回,請放心。",
+    "complete": "完成",
+    "warning": "請勿關閉此頁面。關閉可能會影響結果生成。"
+  },
+  "expandedImagesGallery": {
+    "title": "您生成的圖像"
+  },
+  "improvedCanvas": {
+    "proTip": "💡 專業提示: 我們建議將滑桿設置為 100% 以獲得最佳擴展結果!"
+  },
+  "userDropdownMenu": {
+    "credits": "額度",
+    "loading": "載入中...",
+    "logout": "登出"
+  },
+  "templates": {
+    "9x16Portrait": "9:16 直式",
+    "16x9Landscape": "16:9 橫式",
+    "1x1Square": "1:1 正方形",
+    "InstagramPost": "Instagram 貼文",
+    "InstagramPortrait": "Instagram 直式照片",
+    "InstagramStory": "Instagram 故事",
+    "YouTubeThumbnail": "YouTube 縮圖",
+    "FacebookPost": "Facebook 貼文",
+    "FacebookCover": "Facebook 封面",
+    "PinterestPin": "Pinterest 圖釘",
+    "XPost": "X (前身為 Twitter) 貼文",
+    "XCover": "X (前身為 Twitter) 封面",
+    "TikTokVideoPortrait": "TikTok 影片封面 (直式)",
+    "TikTokVideoLandscape": "TikTok 影片封面 (橫式)"
+  },
+  "imagePositionselect": {
+    "options": {
+      "center": "中心",
+      "topLeft": "左上",
+      "topRight": "右上",
+      "bottomLeft": "左下",
+      "bottomRight": "右下"
+    }
+  }
+}

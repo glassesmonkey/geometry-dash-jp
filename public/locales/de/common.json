@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "title": "Flux 1.1 PRO | Fortschrittlicher KI-Bildgenerator"
+  },
+  "header": {
+    "home": "Startseite",
+    "flux11Pro": "Flux 1.1 PRO"
+  },
+  "home": {
+    "title": "Entfesseln Sie Ihre Kreativität mit Flux 1.1 PRO",
+    "description": "Willkommen in der Zukunft der KI-Bildgenerierung! Flux 1.1 PRO, das neueste Meisterwerk von Black Forest Labs, ist hier, um Ihre Ideen in atemberaubende visuelle Werke zu verwandeln. Erleben Sie die Kraft von Flux 1.1 PRO, dem hochmodernen KI-Bildgenerator. Erstellen Sie hochwertige Bilder aus Textbeschreibungen mit unübertroffener Geschwindigkeit und Genauigkeit. Perfekt für Künstler, Designer und kreative Profis.",
+    "cta": "Starten Sie jetzt mit Flux 1.1 PRO 🚀"
+  },
+  "features": {
+    "title": "Entdecken Sie die Funktionen von Flux 1.1 PRO",
+    "lightningFast": {
+      "title": "Blitzschnelle Bilderstellung",
+      "description": "Verabschieden Sie sich von langen Wartezeiten! Flux 1.1 PRO ist 6-mal schneller als das ursprüngliche Flux.1 PRO und 3-mal schneller als die aktualisierte Version. Generieren Sie hochwertige Bilder in Sekunden, nicht in Minuten. Stellen Sie sich vor, Ihre Ideen so schnell in Bilder umzusetzen, wie Sie sie denken können. Das ist die Kraft von Flux 1.1 PRO!",
+      "imageAlt": "Flux 1.1 PRO Blitzschnelle Bildgenerierung"
+    },
+    "topQuality": {
+      "title": "Erstklassige Bildqualität",
+      "description": "Flux 1.1 PRO arbeitet nicht nur schnell – es arbeitet intelligent. Erstellen Sie Bilder mit bis zu 2K Auflösung und verbessertem Prompt-Verständnis für bessere Ergebnisse. Erleben Sie vielfältige und kreative Ausgaben, die Ihrer Vision entsprechen. Ob Sie Kunst machen, designen oder einfach nur Spaß haben, Flux 1.1 PRO liefert Qualität, die Sie sehen können.",
+      "imageAlt": "Flux 1.1 PRO Hochwertige Bildausgabe"
+    },
+    "userFriendly": {
+      "title": "Benutzerfreundliches Design",
+      "description": "Kein Doktortitel erforderlich! Flux 1.1 PRO ist für jeden einfach zu bedienen. Genießen Sie eine einfache Oberfläche für einen schnellen Start, erweiterte Optionen für Profis, die mehr Kontrolle wünschen, und eine großartige Leistung auf verschiedenen Geräten und Setups. Von Anfängern bis zu Experten kann jeder mit Flux 1.1 PRO erstaunliche Bilder erstellen.",
+      "imageAlt": "Flux 1.1 PRO Benutzerfreundliche Oberfläche"
+    },
+    "versatile": {
+      "title": "Vielseitige Kreativität",
+      "description": "Flux 1.1 PRO ist Ihr All-in-One-Kreativpartner. Es unterstützt viele Kunststile und Bildtypen, was es ideal für digitale Kunst, Marketing, Content-Erstellung und mehr macht. Es verbessert sich ständig, um neue Möglichkeiten zu bieten. Was auch immer Sie sich vorstellen können, Flux 1.1 PRO kann helfen, es zum Leben zu erwecken.",
+      "imageAlt": "Flux 1.1 PRO Vielseitige Kreativität"
+    },
+    "mainImage": {
+      "alt": "Flux 1.1 PRO KI-Bildgenerator"
+    }
+  },
+  "howItWorks": {
+    "title": "Wie Flux 1.1 PRO funktioniert: Ihr Leitfaden zur KI-Magie",
+    "description": "Haben Sie sich je gefragt, wie KI Worte in Bilder verwandelt? Lassen Sie uns durchgehen, wie Flux 1.1 PRO Ihre Ideen zum Leben erweckt. Es ist einfacher, als Sie vielleicht denken!",
+    "imageAlt": "Flux 1.1 PRO Funktionsweise Illustration",
+    "step1": {
+      "title": "Wählen Sie Ihren Bildtyp",
+      "description": "Beginnen Sie damit, zu entscheiden, welche Art von Bild Sie mit Flux 1.1 PRO erstellen möchten: ein farbenfrohes digitales Gemälde, ein realistisches Foto oder eine coole Sci-Fi-Szene? Flux 1.1 PRO kann alles. Wählen Sie einfach Ihren Stil und Sie sind bereit für den nächsten Schritt."
+    },
+    "step2": {
+      "title": "Beschreiben Sie Ihre Idee",
+      "description": "Jetzt kommt der spaßige Teil - sagen Sie Flux 1.1 PRO, was Sie sehen möchten. Verwenden Sie einfache Worte, um Ihr Bild zu beschreiben, seien Sie so detailliert, wie Sie möchten, und machen Sie sich keine Sorgen um ausgefallene Kunstbegriffe. Flux 1.1 PRO ist großartig darin zu verstehen, was Sie meinen. Es ist, als würden Sie mit einem Freund sprechen, der wirklich gut zeichnen kann!"
+    },
+    "step3": {
+      "title": "Einstellungen anpassen (Optional)",
+      "description": "Möchten Sie Ihr Bild feinabstimmen? Flux 1.1 PRO lässt Sie Dinge anpassen: Wählen Sie die Bildgröße (bis zu 2K Auflösung!), passen Sie an, wie genau es Ihrer Beschreibung folgt, und wählen Sie spezielle Effekte oder Stile. Keine Sorge, wenn das kompliziert klingt - die Standardeinstellungen funktionieren auch großartig!"
+    },
+    "step4": {
+      "title": "Generieren und Herunterladen",
+      "description": "Zeit für die Magie: Klicken Sie auf den 'Generieren'-Button, beobachten Sie, wie Flux 1.1 PRO Ihr Bild in Sekunden erstellt, und wenn Ihnen gefällt, was Sie sehen, klicken Sie auf 'Herunterladen'. Nicht ganz richtig? Versuchen Sie es erneut - jedes Mal wird es ein bisschen anders sein. Sie haben gerade KI-Kunst mit Flux 1.1 PRO erstellt!"
+    },
+    "whySpecial": {
+      "title": "Warum Flux 1.1 PRO besonders ist",
+      "description": "Denken Sie daran, Flux 1.1 PRO ist nicht nur schnell - es ist auch intelligent. Es ist 6-mal schneller als das ursprüngliche Flux.1 PRO, versteht Ihre Ideen besser als je zuvor und kann eine breite Palette von Bildstilen erstellen. Außerdem wird es ständig besser. Das Team bei Black Forest Labs arbeitet ständig daran, Flux 1.1 PRO noch erstaunlicher zu machen."
+    },
+    "readyToTry": {
+      "title": "Bereit es zu versuchen?",
+      "description": "Das Erstellen mit Flux 1.1 PRO ist einfach, macht Spaß und ist voller Überraschungen. Warum probieren Sie es nicht aus? Ihre Vorstellungskraft ist die einzige Grenze! Denken Sie daran: Je mehr Sie Flux 1.1 PRO benutzen, desto besser werden Sie darin, Ihre Ideen zu beschreiben. Bald werden Sie unglaubliche Bilder in Nullkommanichts erstellen!"
+    }
+  },
+  "footer": {
+    "description": "Verwandeln Sie Ihre Ideen mit Flux 1.1 PRO's fortschrittlicher KI-Technologie in atemberaubende visuelle Werke.",
+    "product": "Produkt",
+    "features": "Funktionen",
+    "partner": "Partner",
+    "followUs": "Folgen Sie uns",
+    "copyright": "© {{year}} Flux1.one. Alle Rechte vorbehalten.",
+    "terms": "Nutzungsbedingungen",
+    "privacy": "Datenschutzrichtlinie",
+    "credits": "Powered by Black Forest Labs. Erstellt von Alex"
+  },
+  "fluxTips": {
+    "title": "Top-Tipps, um das Beste aus Flux 1.1 PRO herauszuholen",
+    "description": "Möchten Sie mit Flux 1.1 PRO erstaunliche Bilder erstellen? Hier sind einige nützliche Tipps, die Ihnen helfen, dieses leistungsstarke KI-Tool optimal zu nutzen!",
+    "tip1": "Seien Sie spezifisch in Ihren Beschreibungen: Flux 1.1 PRO ist großartig darin zu verstehen, was Sie wollen, aber je mehr Details Sie geben, desto besser. Anstatt nur 'eine Katze' zu sagen, versuchen Sie 'eine flauschige orangefarbene Katze, die auf einem blauen Sofa sitzt'. Fügen Sie Details über Farben, Texturen und Hintergründe hinzu. Erwähnen Sie den Stil, den Sie möchten, wie 'Cartoon-Stil' oder 'realistisches Foto'. Denken Sie daran, Flux 1.1 PRO ist 3-mal schneller als die vorherige Version, also haben Sie keine Angst, längere, detailliertere Prompts zu schreiben!",
+    "tip2": "Experimentieren Sie mit verschiedenen Stilen: Flux 1.1 PRO kann viele verschiedene Arten von Bildern erstellen. Probieren Sie digitale Gemälde, realistische Fotos, Cartoon-Zeichnungen, Sci-Fi- oder Fantasy-Szenen aus. Bleiben Sie nicht bei nur einem Stil - mischen Sie es und sehen Sie, was Flux 1.1 PRO kann!",
+    "tip3": "Verwenden Sie die richtigen Schlüsselwörter: Einige Wörter können Flux 1.1 PRO wirklich helfen zu verstehen, was Sie wollen. Verwenden Sie Wörter wie 'hochwertig', 'detailliert' oder '4K' für scharfe, klare Bilder. Versuchen Sie 'cineastisch', 'dramatisch' oder 'atmosphärisch' für filmähnliche Szenen. Fügen Sie 'im Stil von [Künstlername]' hinzu, um einen bestimmten Kunststil nachzuahmen. Flux 1.1 PRO hat eine verbesserte Prompt-Einhaltung, sodass es besser als je zuvor Ihren Anweisungen folgt.",
+    "tip4": "Nutzen Sie die hohe Auflösung: Flux 1.1 PRO kann Bilder mit bis zu 2K Auflösung erstellen. Verwenden Sie die höchste Auflösung für Bilder mit vielen Details. Probieren Sie niedrigere Auflösungen für schnellere Generierungszeiten aus. Experimentieren Sie, um die beste Balance zwischen Qualität und Geschwindigkeit für Ihre Bedürfnisse zu finden. Denken Sie daran, Flux 1.1 PRO ist 6-mal schneller als die Originalversion, sodass selbst hochauflösende Bilder schnell generiert werden!",
+    "tip5": "Versuchen Sie mehrere Generierungen: Jedes Mal, wenn Flux 1.1 PRO ein Bild generiert, ist es ein bisschen anders. Hören Sie also nicht bei nur einem auf. Generieren Sie mehrere Versionen Ihrer Idee. Wählen Sie Ihren Favoriten oder kombinieren Sie Elemente aus verschiedenen Versionen. Ändern Sie Ihren Prompt jedes Mal leicht, um zu sehen, wie es das Ergebnis beeinflusst. Mit der Geschwindigkeit von Flux 1.1 PRO können Sie in kürzester Zeit viele Variationen erstellen!"
+  },
+  "faq": {
+    "mainTitle": "Häufig gestellte Fragen zu Flux 1.1 PRO",
+    "description": "Haben Sie Fragen zu Flux 1.1 PRO? Wir haben Antworten! Hier sind einige häufig gestellte Fragen über unseren erstaunlichen KI-Bildgenerator.",
+    "question1": "Was ist Flux 1.1 PRO?",
+    "answer1": "Flux 1.1 PRO ist eine super intelligente KI, die Ihre Worte in Bilder verwandelt. Es ist, als hätten Sie einen Künstlerfreund, der alles zeichnen kann, was Sie beschreiben, aber wirklich, wirklich schnell! Es wurde von Black Forest Labs gemacht, einer Firma voller KI-Experten. Flux 1.1 PRO ist die neueste und beste Version der Flux KI-Familie. Es kann alle Arten von Bildern erstellen, von einfachen Zeichnungen bis hin zu komplexen Szenen.",
+    "question2": "Wie unterscheidet sich Flux 1.1 PRO von anderen KI-Bildgeneratoren?",
+    "answer2": "Flux 1.1 PRO sticht in vielerlei Hinsicht heraus: Es ist 6-mal schneller als das ursprüngliche Flux.1 PRO, es erstellt klarere, detailliertere Bilder, es ist besser darin, Ihren Anweisungen zu folgen, und es kann eine breitere Palette von Bildstilen erstellen. Außerdem ist Flux 1.1 PRO das am höchsten bewertete Modell auf der Artificial Analysis Bild-Arena-Rangliste. Das ist wie eine Goldmedaille bei den KI-Olympischen Spielen zu gewinnen!",
+    "question3": "Benötige ich spezielle Hardware, um Flux 1.1 PRO zu verwenden?",
+    "answer3": "Gute Nachrichten - Flux 1.1 PRO ist so konzipiert, dass es auf vielen verschiedenen Setups gut funktioniert. Es läuft großartig auf normalen Computern, Sie benötigen keine super teure Grafikkarte, und es funktioniert sogar gut auf kleineren GPUs wie der RTX 3060. Ob Sie eine leistungsstarke Workstation oder einen normalen Laptop verwenden, Flux 1.1 PRO hat Sie abgedeckt.",
+    "question4": "Kann ich Flux 1.1 PRO für kommerzielle",
+    "answer4": "Auf jeden Fall! Flux 1.1 PRO ist perfekt für den professionellen Einsatz. Es eignet sich hervorragend für Werbung und Marketing, ist nützlich für Designprojekte und ideal für Content-Erstellung. Viele kreative Profis verwenden Flux 1.1 PRO bereits in ihrer Arbeit. Stellen Sie nur sicher, dass Sie die spezifischen Lizenzbedingungen für die kommerzielle Nutzung überprüfen.",
+    "question5": "Wie genau folgt Flux 1.1 PRO den Prompts?",
+    "answer5": "Flux 1.1 PRO ist wie ein sehr aufmerksamer Zuhörer. Es ist hervorragend darin, Ihre Anweisungen zu verstehen und zu befolgen, es kann komplexe Beschreibungen und spezifische Anfragen verarbeiten und es ist besser in der Prompt-Einhaltung als frühere Versionen. Denken Sie daran, je klarer Ihre Beschreibung ist, desto besser sind die Ergebnisse. Aber keine Sorge - Flux 1.1 PRO ist gut darin herauszufinden, was Sie meinen, auch wenn Sie kein Experte darin sind, Bilder zu beschreiben.",
+    "question6": "Ist Flux 1.1 PRO über API verfügbar?",
+    "answer6": "Ja, das ist es! Die Flux 1.1 PRO API wird BFL API genannt. Sie befindet sich derzeit in der Beta-Phase, was bedeutet, dass sie getestet wird. Sie ist für Entwickler und Unternehmen konzipiert und ermöglicht es Ihnen, Flux 1.1 PRO in Ihre eigenen Apps oder Dienste zu integrieren. Die API ist skalierbar, sodass sie sowohl für kleine Projekte als auch für große Unternehmensanwendungen funktioniert.",
+    "question7": "Wie viel kostet die Nutzung von Flux 1.1 PRO?",
+    "answer7": "Die Preisgestaltung für Flux 1.1 PRO ist wettbewerbsfähig. Flux 1.1 PRO kostet 4 Cent pro Bild für die vollständige, professionelle Version. Es gibt auch andere Versionen zu verschiedenen Preisen: Flux.1 [dev] für"
+  },
+  "comparison": {
+    "title": "AI Hug Videogeneratoren: Wie wir uns vergleichen",
+    "description": "Entdecken Sie die Vorteile unseres AI Hug Videogenerators im Vergleich zu anderen beliebten Optionen auf dem Markt.",
+    "ourProduct": {
+      "title": "Unser AI Hug Videogenerator",
+      "feature1": "Sofortiger Zugang ohne Warteliste",
+      "feature2": "Kostenlose Testversion für Ihr erstes AI Hug Video",
+      "feature3": "Benutzerfreundliche Oberfläche für schnelle Ergebnisse"
+    },
+    "viduAI": {
+      "title": "Vidu AI Hug",
+      "feature1": "Erfordert Beitritt zu einer Warteliste",
+      "feature2": "Kostenpflichtiger Service ohne kostenlose Testversion",
+      "feature3": "Bekannt für hochwertige Videoausgabe"
+    },
+    "lumaAI": {
+      "title": "Luma AI Hug",
+      "feature1": "Wartelistensystem für neue Benutzer",
+      "feature2": "Begrenzter kostenloser Tarif mit kostenpflichtigen Upgrades",
+      "feature3": "Fokus auf realistische 3D-Animationen"
+    }
+  },
+  "aiHugGuide": {
+    "title": "Alles, was Sie über AI Hug Videos wissen müssen",
+    "introduction": "Die AI Hug Technologie revolutioniert die Art und Weise, wie wir Zuneigung in der digitalen Welt ausdrücken. Dieser Leitfaden führt Sie durch alles, was Sie über die Erstellung und das Teilen von KI-generierten Umarmungsvideos wissen müssen.",
+    "whatIsTitle": "Was ist ein AI Hug?",
+    "whatIsDescription": "AI Hug Technologie verwendet künstliche Intelligenz, um virtuelle Umarmungen zwischen Menschen in digitalen Videos zu erstellen. Dieser innovative Ansatz ermöglicht es Benutzern, herzerwärmende Video-Umarmungen aus statischen Bildern zu generieren.",
+    "howItWorksTitle": "Wie lässt KI Menschen umarmen?",
+    "howItWorksDescription": "Fortschrittliche Algorithmen analysieren hochgeladene Fotos, kartieren Gesichtszüge und Körperpositionen, um realistische Umarmungsanimationen zu erstellen. Die KI generiert dann basierend auf dieser Analyse ein flüssiges Video-Hug.",
+    "creationProcessTitle": "Die Magie der Video-AI-Hug-Erstellung",
+    "step1": "Wählen Sie klare, gut beleuchtete Fotos der Personen aus, die Sie umarmen sehen möchten.",
+    "step2": "Laden Sie Ihre Fotos auf die AI Hug Plattform hoch.",
+    "step3": "Passen Sie bei Bedarf Ihren Umarmungsstil und die Dauer an.",
+    "step4": "Lassen Sie die KI ihre Magie wirken und Ihr Video-Hug generieren.",
+    "benefitsTitle": "Vorteile der Nutzung von AI Hug Technologie",
+    "benefit1": "Verbinden Sie sich mit Lieben über Distanzen hinweg",
+    "benefit2": "Erstellen Sie einzigartige und emotionale Inhalte für soziale Medien",
+    "benefit3": "Bewahren und erleben Sie wertvolle Erinnerungen neu",
+    "benefit4": "Drücken Sie Zuneigung auf neue und kreative Weise aus",
+    "freeTrialTitle": "Kostenlose AI Hug Optionen: Erste Schritte",
+    "freeTrialDescription": "Viele Plattformen, einschließlich unserer, bieten kostenlose AI Hug Testversionen an. Dies ermöglicht es Ihnen, die Technologie zu erleben und Ihr erstes AI Hug Video ohne Kosten oder Verpflichtungen zu erstellen.",
+    "futureOfAIHugTitle": "Die Zukunft der AI Hug Technologie",
+    "futureOfAIHugDescription": "Mit fortschreitender KI können wir noch realistischere und emotional resonantere Video-Umarmungen erwarten, möglicherweise mit Audio und komplexeren Interaktionen.",
+    "ethicalConsiderationsTitle": "Ethische Überlegungen bei der AI Hug Erstellung",
+    "ethicalConsiderationsDescription": "Während AI Hug Videos viele Vorteile bieten, ist es wichtig, die Technologie verantwortungsvoll zu nutzen und die Privatsphäre der Personen in den verwendeten Fotos zu respektieren.",
+    "realWorldApplicationsTitle": "Reale Anwendungen von AI Hugs",
+    "applicationLongDistance": "Verbindung von Fernbeziehungen",
+    "applicationMemories": "Nachstellung von Umarmungen mit verstorbenen Lieben",
+    "applicationSocialMedia": "Erstellung von ansprechenden Inhalten für soziale Plattformen",
+    "applicationGreetings": "Versenden einzigartiger Videogrüße für besondere Anlässe",
+    "conclusionTitle": "Die Zukunft der digitalen Zuneigung annehmen",
+    "conclusionDescription": "AI Hug Technologie bietet eine einzigartige Möglichkeit, Liebe und Verbundenheit in unserer zunehmend digitalen Welt auszudrücken. Indem Sie ihre Fähigkeiten verstehen und sie verantwortungsvoll nutzen, können Sie berührende, personalisierte Video-Umarmungen erstellen, die Freude in Ihre digitalen Interaktionen bringen.",
+    "ctaButton": "Erstellen Sie jetzt Ihr kostenloses AI Hug Video"
+  },
+  "aiHugFeatures": {
+    "memories": {
+      "title": "Wertvolle Erinnerungen wiedererleben",
+      "description": "Umarmen Sie verstorbene Lieben wieder, spüren Sie die Wärme"
+    },
+    "idols": {
+      "title": "Traum wird Wirklichkeit",
+      "description": "Teilen Sie eine virtuelle Umarmung mit Ihrem Idol, machen Sie Ihren Traum zur Realität"
+    },
+    "distance": {
+      "title": "Überbrücken Sie die Distanz",
+      "description": "Umarmen Sie weit entfernte Freunde eng, eliminieren Sie die Meilen"
+    },
+    "timeMachine": {
+      "title": "Zeitmaschinen-Umarmung",
+      "description": "Umarmen Sie Ihr vergangenes oder zukünftiges Ich, überwinden Sie die Zeit"
+    }
+  },
+  "aiHugGen": {
+    "title": "AI Hug Generator",
+    "description": "Generieren Sie Videos aus zusammengeführten Bildern mit KI",
+    "heading": "AI Hug Generator"
+  },
+  "blogPostList": {
+    "title": "Neueste Blogbeiträge",
+    "description": "Entdecken Sie die neuesten Updates und Einblicke von AI Hug",
+    "viewMore": "Mehr anzeigen"
+  }
+}

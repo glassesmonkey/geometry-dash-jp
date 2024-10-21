@@ -1,0 +1,22 @@
+{
+  "waitlist": {
+    "meta": {
+      "title": "Join Flux 1.1 PRO Waitlist | Advanced AI Image Generator",
+      "description": "Due to high demand, Flux 1.1 PRO is currently at capacity. Join our waitlist for a chance to receive free trial credits once approved."
+    },
+    "title": "Join Flux 1.1 PRO Waitlist",
+    "description": "We're experiencing unprecedented demand for Flux 1.1 PRO. To ensure the best experience for all users, we've temporarily paused free trials. Join our waitlist, and upon approval, we'll provide you with free trial credits as soon as possible.",
+    "emailPlaceholder": "Enter your email address",
+    "joining": "Submitting...",
+    "joinButton": "Join Waitlist",
+    "successMessage": "Thank you for joining our waitlist! We'll review your application and send free trial credits once approved.",
+    "errorMessage": "Error: {{error}}. Please try again.",
+    "bonusOffer": "🎉 Special offer: Get 1 bonus credit when you join our waitlist and upon approval!",
+    "capacityNotice": "🚀 High Demand Alert: Our servers are currently at full capacity. Join the waitlist for priority access to Flux 1.1 PRO.",
+    "reviewProcess": "Our team will review waitlist applications and distribute free trial credits for Flux 1.1 PRO as capacity becomes available.",
+    "loginAndJoinButton": "Login & Join Waitlist"
+  },
+  "common": {
+    "logoAlt": "Flux 1.1 PRO Logo"
+  }
+}

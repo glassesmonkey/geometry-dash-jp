@@ -1,0 +1,22 @@
+{
+  "waitlist": {
+    "meta": {
+      "title": "加入 Flux 1.1 PRO 等待名單 | 進階 AI 圖像生成器",
+      "description": "由於需求量大，Flux 1.1 PRO 目前已達到容量上限。加入我們的等待名單，有機會在獲得批准後獲得免費試用額度。"
+    },
+    "title": "加入 Flux 1.1 PRO 等待名單",
+    "description": "我們正在經歷對 Flux 1.1 PRO 前所未有的需求。為確保所有用戶獲得最佳體驗，我們暫時暫停了免費試用。加入我們的等待名單，一旦獲得批准，我們將盡快為您提供免費試用額度。",
+    "emailPlaceholder": "輸入您的電子郵件地址",
+    "joining": "正在提交...",
+    "joinButton": "加入等待名單",
+    "successMessage": "感謝您加入我們的等待名單！我們將審核您的申請，並在批准後發送免費試用額度。",
+    "errorMessage": "錯誤：{{error}}。請重試。",
+    "bonusOffer": "🎉 特別優惠：加入我們的等待名單並獲得批准後，即可獲得 1 個額外積分！",
+    "capacityNotice": "🚀 高需求提醒：我們的伺服器目前已達到滿負荷。加入等待名單以獲得 Flux 1.1 PRO 的優先訪問權。",
+    "reviewProcess": "我們的團隊將審核等待名單申請，並在容量可用時分發 Flux 1.1 PRO 的免費試用額度。",
+    "loginAndJoinButton": "登入並加入等待名單"
+  },
+  "common": {
+    "logoAlt": "Flux 1.1 PRO 標誌"
+  }
+}

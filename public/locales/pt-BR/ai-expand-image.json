@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "title": "AI Expand Image | Expansor de Imagens com IA para qualquer plataforma"
+  },
+  "header": {
+    "buyCredits": "Comprar créditos",
+    "signUpPromo": "🎁 Cadastre-se agora e ganhe 5 créditos grátis!",
+    "signInWithGoogle": "Entrar com Google"
+  },
+  "dragDropUpload": {
+    "dragDropText": "Arraste e solte sua imagem aqui",
+    "orClickText": "ou clique para selecionar um arquivo",
+    "supportedFormats": "Formatos suportados: JPG,JPEG,SVG, PNG, GIF, WEBP",
+    "maxFileSize": "Tamanho máximo do arquivo: 25MB",
+    "fileTooLarge": "Arquivo muito grande. O tamanho máximo é 25MB."
+  },
+  "modeSwitcher": {
+    "speedMode": "Modo Rápido",
+    "highQualityMode": "Modo de Alta Qualidade",
+    "speedModeDescription": "Modo Rápido: Resultados rápidos (geralmente em 1 minuto), mas com qualidade de imagem inferior ao Modo de Alta Qualidade.",
+    "highQualityModeDescription": "Modo de Alta Qualidade: A geração da imagem geralmente leva cerca de 2 minutos, mas produz resultados de melhor qualidade."
+  },
+  "templateSelection": {
+    "label": "Modelo",
+    "description": "Selecione a proporção da imagem ou o propósito desejado."
+  },
+  "imagePosition": {
+    "label": "Posição da Imagem",
+    "description": "Escolha onde colocar sua imagem original no canvas expandido"
+  },
+  "prompt": {
+    "label": "Prompt (opcional)",
+    "description": "Descreva o conteúdo da imagem para expansão com IA. Deixe em branco para análise automática.",
+    "placeholder": "Digite o prompt"
+  },
+  "amount": {
+    "label": "Quantidade",
+    "description": "Escolha quantas imagens expandidas gerar"
+  },
+  "credits": {
+    "label": "Créditos restantes"
+  },
+  "extendImage": {
+    "buttonText": "Expandir imagem!",
+    "loading": "Carregando..."
+  },
+  "errorToast": {
+    "defaultError": "Ocorreu um problema. Por favor, tente novamente."
+  },
+  "rechargeModal": {
+    "title": "Créditos Insuficientes",
+    "message": "Você não tem créditos suficientes para realizar esta ação. Gostaria de recarregar?",
+    "rechargeButton": "Recarregar",
+    "cancelButton": "Cancelar"
+  },
+  "loadingOverlay": {
+    "enhancingImage": "Aprimorando imagem...",
+    "uploadingImage": "Enviando imagem...",
+    "aiRecognizing": "IA reconhecendo imagens...",
+    "expandingImage": "Expandindo Imagem",
+    "processingResults": "Processando resultados",
+    "completed": "Concluído",
+    "highQualityModeMessage": "No modo de Alta Qualidade, leva cerca de 2 minutos. Fique à vontade para fechar a aba ou atualizar - suas imagens ainda serão criadas e aparecerão em 'Suas Imagens Geradas' quando prontas. Não se preocupe, você receberá seus créditos de volta se algo der errado.",
+    "complete": "Concluído",
+    "warning": "Por favor, não feche esta página. Fechar pode afetar a geração do resultado."
+  },
+  "expandedImagesGallery": {
+    "title": "Suas Imagens Geradas"
+  },
+  "improvedCanvas": {
+    "proTip": "💡 Dica profissional: Recomendamos configurar o controle deslizante para 100% para obter os melhores resultados de expansão!"
+  },
+  "userDropdownMenu": {
+    "credits": "Créditos",
+    "loading": "Carregando...",
+    "logout": "Sair"
+  },
+  "templates": {
+      "9x16Portrait": "Retrato 9:16",
+      "16x9Landscape": "Paisagem 16:9",
+      "1x1Square": "Quadrado 1:1",
+      "InstagramPost": "Post do Instagram",
+      "InstagramPortrait": "Retrato do Instagram",
+      "InstagramStory": "Story do Instagram",
+      "YouTubeThumbnail": "Miniatura do YouTube",
+      "FacebookPost": "Post do Facebook",
+      "FacebookCover": "Capa do Facebook",
+      "PinterestPin": "Pin do Pinterest",
+      "XPost": "Post do X (antigo Twitter)",
+      "XCover": "Capa do X (antigo Twitter)",
+      "TikTokVideoPortrait": "Capa de Vídeo do TikTok (Retrato)",
+      "TikTokVideoLandscape": "Capa de Vídeo do TikTok (Paisagem)"
+    },
+    "imagePositionselect": {
+      "options": {
+        "center": "Centro",
+        "topLeft": "Superior Esquerdo",
+        "topRight": "Superior Direito",
+        "bottomLeft": "Inferior Esquerdo",
+        "bottomRight": "Inferior Direito"
+      }
+    }
+}

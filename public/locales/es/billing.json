@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Facturación y Suscripciones | Nombre de su Servicio",
+    "description": "Gestione sus suscripciones, vea el historial de facturación y actualice la información de pago."
+  },
+  "title": "Facturación y Suscripciones",
+  "description": "Gestione sus suscripciones e información de facturación",
+  "loading": "Cargando...",
+  "currentPlan": "Plan Actual",
+  "credits": "Créditos Disponibles",
+  "status": "Estado",
+  "renewalDate": "Próxima renovación el {{date}}",
+  "cancelAtPeriodEnd": "Se cancela el {{date}}",
+  "cancelAt": "Programado para cancelar el {{date}}",
+  "canceledAt": "Cancelado el {{date}}",
+  "cancelSubscription": "Cancelar Suscripción",
+  "cancelConfirmation": "¿Está seguro de que desea cancelar su suscripción?",
+  "cancelSuccess": "Su suscripción ha sido cancelada con éxito",
+  "cancelError": "Ocurrió un error al cancelar su suscripción. Por favor, inténtelo de nuevo.",
+  "noPlan": "Sin Suscripción Activa",
+  "noPlanDescription": "Actualmente no tiene una suscripción activa. Elija un plan para comenzar.",
+  "viewPlans": "Ver Planes",
+  "billingHistory": "Historial de Facturación",
+  "subscriptionStatus": {
+    "active": "Activa",
+    "canceled": "Cancelada",
+    "incomplete": "Incompleta",
+    "incomplete_expired": "Expirada (Incompleta)",
+    "past_due": "Vencida",
+    "trialing": "En Prueba",
+    "unpaid": "No Pagada"
+  },
+  "interval": {
+    "day": "día",
+    "week": "semana",
+    "month": "mes",
+    "year": "año"
+  },
+  "errors": {
+    "fetchFailed": "Error al obtener los datos de la suscripción. Por favor, inténtelo de nuevo.",
+    "updateFailed": "Error al actualizar la suscripción. Por favor, inténtelo de nuevo.",
+    "general": "Ocurrió un error. Por favor, inténtelo de nuevo más tarde."
+  }
+}

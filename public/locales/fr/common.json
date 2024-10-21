@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "title": "Flux 1.1 PRO | Générateur d'images IA avancé"
+  },
+  "header": {
+    "home": "Accueil",
+    "flux11Pro": "Flux 1.1 PRO"
+  },
+  "home": {
+    "title": "Libérez votre créativité avec Flux 1.1 PRO",
+    "description": "Bienvenue dans le futur de la génération d'images par IA ! Flux 1.1 PRO, la dernière merveille de Black Forest Labs, est là pour transformer vos idées en visuels époustouflants. Découvrez la puissance de Flux 1.1 PRO, le générateur d'images IA de pointe. Créez des images de haute qualité à partir de descriptions textuelles avec une vitesse et une précision inégalées. Parfait pour les artistes, les designers et les professionnels créatifs.",
+    "cta": "Commencez à créer avec Flux 1.1 PRO 🚀"
+  },
+  "features": {
+    "title": "Découvrez les fonctionnalités de Flux 1.1 PRO",
+    "lightningFast": {
+      "title": "Création d'images ultra-rapide",
+      "description": "Dites adieu aux longues attentes ! Flux 1.1 PRO est 6 fois plus rapide que le Flux.1 PRO original et 3 fois plus rapide que la version mise à jour. Générez des images de haute qualité en secondes, pas en minutes. Imaginez transformer vos idées en images aussi vite que vous pouvez les penser. C'est la puissance de Flux 1.1 PRO !",
+      "imageAlt": "Génération d'images ultra-rapide de Flux 1.1 PRO"
+    },
+    "topQuality": {
+      "title": "Qualité d'image de premier ordre",
+      "description": "Flux 1.1 PRO ne travaille pas seulement vite - il travaille intelligemment. Créez des images jusqu'à 2K de résolution avec une meilleure compréhension des prompts pour de meilleurs résultats. Expérimentez des résultats divers et créatifs qui correspondent à votre vision. Que vous fassiez de l'art, du design ou simplement pour le plaisir, Flux 1.1 PRO offre une qualité que vous pouvez voir.",
+      "imageAlt": "Sortie d'image de haute qualité de Flux 1.1 PRO"
+    },
+    "userFriendly": {
+      "title": "Design convivial",
+      "description": "Pas besoin d'un doctorat ! Flux 1.1 PRO est facile à utiliser pour tout le monde. Profitez d'une interface simple pour un démarrage rapide, d'options avancées pour les pros qui veulent plus de contrôle, et de performances excellentes sur divers appareils et configurations. Des débutants aux experts, tout le monde peut créer des images étonnantes avec Flux 1.1 PRO.",
+      "imageAlt": "Interface conviviale de Flux 1.1 PRO"
+    },
+    "versatile": {
+      "title": "Créativité polyvalente",
+      "description": "Flux 1.1 PRO est votre partenaire créatif tout-en-un. Il prend en charge de nombreux styles d'art et types d'images, ce qui le rend idéal pour l'art numérique, le marketing, la création de contenu et plus encore. Il s'améliore constamment pour offrir de nouvelles possibilités. Quoi que vous puissiez imaginer, Flux 1.1 PRO peut aider à le réaliser.",
+      "imageAlt": "Créativité polyvalente de Flux 1.1 PRO"
+    },
+    "mainImage": {
+      "alt": "Générateur d'images IA Flux 1.1 PRO"
+    }
+  },
+  "howItWorks": {
+    "title": "Comment fonctionne Flux 1.1 PRO : Votre guide pour la magie de l'IA",
+    "description": "Vous êtes-vous déjà demandé comment l'IA transforme les mots en images ? Voyons comment Flux 1.1 PRO donne vie à vos idées. C'est plus facile que vous ne le pensez !",
+    "imageAlt": "Illustration du fonctionnement de Flux 1.1 PRO",
+    "step1": {
+      "title": "Choisissez votre type d'image",
+      "description": "Commencez par décider quel type d'image vous voulez créer avec Flux 1.1 PRO : une peinture numérique colorée, une photo réaliste ou une scène de science-fiction cool ? Flux 1.1 PRO peut tout faire. Choisissez simplement votre style et vous êtes prêt pour l'étape suivante."
+    },
+    "step2": {
+      "title": "Décrivez votre idée",
+      "description": "Maintenant vient la partie amusante - dites à Flux 1.1 PRO ce que vous voulez voir. Utilisez des mots simples pour décrire votre image, soyez aussi détaillé que vous le souhaitez, et ne vous inquiétez pas des termes artistiques sophistiqués. Flux 1.1 PRO est excellent pour comprendre ce que vous voulez dire. C'est comme parler à un ami qui sait très bien dessiner !"
+    },
+    "step3": {
+      "title": "Ajustez les paramètres (Optionnel)",
+      "description": "Vous voulez affiner votre image ? Flux 1.1 PRO vous permet d'ajuster les choses : choisissez la taille de l'image (jusqu'à 2K de résolution !), ajustez à quel point il suit votre description, et choisissez des effets spéciaux ou des styles. Ne vous inquiétez pas si cela semble compliqué - les paramètres par défaut fonctionnent aussi très bien !"
+    },
+    "step4": {
+      "title": "Générez et téléchargez",
+      "description": "C'est l'heure de la magie : cliquez sur le bouton 'Générer', regardez Flux 1.1 PRO créer votre image en quelques secondes, et si vous aimez ce que vous voyez, cliquez sur 'Télécharger'. Pas tout à fait ce que vous vouliez ? Essayez à nouveau - chaque fois sera un peu différent. Vous venez de créer de l'art IA avec Flux 1.1 PRO !"
+    },
+    "whySpecial": {
+      "title": "Pourquoi Flux 1.1 PRO est spécial",
+      "description": "Rappelez-vous, Flux 1.1 PRO n'est pas seulement rapide - il est intelligent. Il est 6 fois plus rapide que le Flux.1 PRO original, comprend vos idées mieux que jamais et peut créer une large gamme de styles d'image. De plus, il s'améliore constamment. L'équipe de Black Forest Labs travaille constamment pour rendre Flux 1.1 PRO encore plus étonnant."
+    },
+    "readyToTry": {
+      "title": "Prêt à essayer ?",
+      "description": "Créer avec Flux 1.1 PRO est facile, amusant et plein de surprises. Pourquoi ne pas l'essayer ? Votre imagination est la seule limite ! Rappelez-vous : plus vous utilisez Flux 1.1 PRO, meilleur vous deviendrez pour décrire vos idées. Bientôt, vous créerez des images incroyables en un clin d'œil !"
+    }
+  },
+  "footer": {
+    "description": "Transformez vos idées en œuvres visuelles époustouflantes avec la technologie IA avancée de Flux 1.1 PRO.",
+    "product": "Produit",
+    "features": "Fonctionnalités",
+    "partner": "Partenaire",
+    "followUs": "Suivez-nous",
+    "copyright": "© {{year}} Flux1.one. Tous droits réservés.",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "credits": "Propulsé par Black Forest Labs. Créé par Alex"
+  },
+  "fluxTips": {
+    "title": "Meilleurs conseils pour tirer le meilleur parti de Flux 1.1 PRO",
+    "description": "Vous voulez créer des images étonnantes avec Flux 1.1 PRO ? Voici quelques conseils utiles pour vous aider à tirer le meilleur parti de cet outil IA puissant !",
+    "tip1": "Soyez spécifique dans vos descriptions : Flux 1.1 PRO est excellent pour comprendre ce que vous voulez, mais plus vous donnez de détails, mieux c'est. Au lieu de dire simplement 'un chat', essayez 'un chat orange duveteux assis sur un canapé bleu'. Incluez des détails sur les couleurs, les textures et les arrière-plans. Mentionnez le style que vous voulez, comme 'style cartoon' ou 'photo réaliste'. Rappelez-vous, Flux 1.1 PRO est 3 fois plus rapide que la version précédente, alors n'ayez pas peur d'écrire des prompts plus longs et plus détaillés !",
+    "tip2": "Expérimentez avec différents styles : Flux 1.1 PRO peut créer de nombreux types d'images différents. Essayez les peintures numériques, les photos réalistes, les dessins de style cartoon, les scènes de science-fiction ou de fantasy. Ne vous cantonnez pas à un seul style - mélangez et voyez ce que Flux 1.1 PRO peut faire !",
+    "tip3": "Utilisez les bons mots-clés : Certains mots peuvent vraiment aider Flux 1.1 PRO à comprendre ce que vous voulez. Utilisez des mots comme 'haute qualité', 'détaillé' ou '4K' pour des images nettes et claires. Essayez 'cinématographique', 'dramatique' ou 'atmosphérique' pour des scènes de type film. Ajoutez 'dans le style de [nom de l'artiste]' pour imiter un style artistique particulier. Flux 1.1 PRO a une meilleure adhérence aux prompts, il suit donc vos instructions mieux que jamais.",
+    "tip4": "Profitez de la haute résolution : Flux 1.1 PRO peut créer des images jusqu'à 2K de résolution. Utilisez la résolution la plus élevée pour les images avec beaucoup de détails. Essayez des résolutions plus basses pour des temps de génération plus rapides. Expérimentez pour trouver le meilleur équilibre entre qualité et vitesse pour vos besoins. Rappelez-vous, Flux 1.1 PRO est 6 fois plus rapide que la version originale, donc même les images haute résolution sont générées rapidement !",
+    "tip5": "Essayez plusieurs générations : Chaque fois que Flux 1.1 PRO génère une image, elle est un peu différente. Alors ne vous arrêtez pas à une seule. Générez plusieurs versions de votre idée. Choisissez votre préférée ou combinez des éléments de différentes versions. Changez légèrement votre prompt à chaque fois pour voir comment cela affecte le résultat. Avec la vitesse de Flux 1.1 PRO, vous pouvez créer de nombreuses variations en peu de temps !"
+  },
+  "faq": {
+    "mainTitle": "Questions fréquemment posées sur Flux 1.1 PRO",
+    "description": "Vous avez des questions sur Flux 1.1 PRO ? Nous avons des réponses ! Voici quelques questions courantes que les gens posent sur notre incroyable générateur d'images IA.",
+    "question1": "Qu'est-ce que Flux 1.1 PRO ?",
+    "answer1": "Flux 1.1 PRO est une IA super intelligente qui transforme vos mots en images. C'est comme avoir un ami artiste qui peut dessiner tout ce que vous décrivez, mais vraiment, vraiment vite ! Il est créé par Black Forest Labs, une entreprise pleine d'experts en IA. Flux 1.1 PRO est la version la plus récente et la meilleure de la famille IA Flux. Il peut créer toutes sortes d'images, des dessins simples aux scènes complexes.",
+    "question2": "En quoi Flux 1.1 PRO est-il différent des autres générateurs d'images IA ?",
+    "answer2": "Flux 1.1 PRO se démarque à bien des égards : il est 6 fois plus rapide que le Flux.1 PRO original, crée des images plus claires et plus détaillées, est meilleur pour suivre vos instructions et peut créer une plus large gamme de styles d'image. De plus, Flux 1.1 PRO est le modèle le mieux noté sur le tableau de bord de l'arène d'images d'Artificial Analysis. C'est comme gagner une médaille d'or aux Jeux Olympiques de l'IA !",
+    "question3": "Ai-je besoin d'un matériel spécial pour utiliser Flux 1.1 PRO ?",
+    "answer3": "Bonne nouvelle - Flux 1.1 PRO est conçu pour bien fonctionner sur de nombreuses configurations différentes. Il fonctionne très bien sur des ordinateurs normaux, vous n'avez pas besoin d'une carte graphique super chère, et il fonctionne même bien sur des GPU plus petits comme la RTX 3060. Que vous utilisiez une puissante station de travail ou un ordinateur portable normal, Flux 1.1 PRO vous couvre.",
+    "question4": "Puis-je utiliser Flux 1.1 PRO pour des projets commerciaux ?",
+    "answer4": "Absolument ! Flux 1.1 PRO est parfait pour un usage professionnel. Il est excellent pour la publicité et le marketing, utile pour les projets de design et idéal pour la création de contenu. De nombreux professionnels créatifs utilisent déjà Flux 1.1 PRO dans leur travail. Assurez-vous simplement de vérifier les conditions de licence spécifiques pour l'utilisation commerciale.",
+    "question5": "À quel point Flux 1.1 PRO est-il précis pour suivre les prompts ?",
+    "answer5": "Flux 1.1 PRO est comme un auditeur très attentif. Il est excellent pour comprendre et suivre vos instructions, peut gérer des descriptions complexes et des demandes spécifiques, et est meilleur en adhérence aux prompts que les versions précédentes. Rappelez-vous, plus votre description est claire, meilleurs seront les résultats. Mais ne vous inquiétez pas",
+    "question6": "Flux 1.1 PRO est-il disponible via API ?",
+    "answer6": "Oui, il l'est ! L'API de Flux 1.1 PRO s'appelle l'API BFL. Elle est actuellement en version bêta, ce qui signifie qu'elle est en cours de test. Elle est conçue pour les développeurs et les entreprises, et vous permet d'intégrer Flux 1.1 PRO dans vos propres applications ou services. L'API est évolutive, elle fonctionne donc aussi bien pour les petits projets que pour les grandes applications d'entreprise.",
+    "question7": "Combien coûte l'utilisation de Flux 1.1 PRO ?",
+    "answer7": "Les prix de Flux 1.1 PRO sont compétitifs. Flux 1.1 PRO coûte 4 cents par image pour la version complète et professionnelle. Il existe également d'autres versions disponibles à différents prix : Flux.1 [dev] à 2,5 cents par image et Flux.1 [pro] à 5 cents par image. Flux 1.1 PRO offre une excellente valeur, vous fournissant des images de la plus haute qualité à un coût inférieur à celui de nombreux concurrents. N'oubliez pas, Flux 1.1 PRO s'améliore constamment. L'équipe de Black Forest Labs travaille constamment pour le rendre encore meilleur. Alors restez à l'écoute pour de nouvelles fonctionnalités et améliorations !",
+    "cannotFindAnswer": "Vous ne trouvez pas la réponse que vous cherchez ? Contactez notre ",
+    "customerSupport": "support client"
+  },
+  "fluxGuide": {
+    "title": "Comment créer de meilleurs prompts pour des images de haute qualité avec Flux 1.1 PRO",
+    "introduction": "Salut ! Avez-vous entendu parler de Flux 1.1 PRO ? C'est un outil super cool qui transforme vos mots en images incroyables. Mais pour obtenir les meilleures images, vous devez savoir comment parler à Flux 1.1 PRO. Ne vous inquiétez pas, c'est facile et amusant ! Flux 1.1 PRO est comme un artiste robot. Vous lui dites quoi dessiner et il fait l'image. Mieux vous expliquez ce que vous voulez, plus l'image sera cool. C'est pourquoi il est si important d'apprendre à écrire de bons prompts lorsque vous utilisez Flux 1.1 PRO.",
+    "basicTipsTitle": "Conseils de base pour de meilleurs prompts",
+    "tipspecific": "Soyez spécifique et descriptif : Lorsque vous utilisez Flux 1.1 PRO, essayez d'être aussi clair que possible. Au lieu de dire 'un chien', dites 'un chiot Golden Retriever duveteux'. Plus vous fournissez de détails, mieux Flux 1.1 PRO pourra comprendre ce que vous voulez.",
+    "tipsimpleLanguage": "Utilisez un langage simple : Flux 1.1 PRO est intelligent, mais il préfère les mots simples. Vous n'avez pas besoin de grands mots élégants. Utilisez simplement les mots que vous utiliseriez en parlant à un ami.",
+    "tipdetails": "Pensez aux détails : De quelle couleur est le ciel dans votre image ? Est-ce le jour ou la nuit ? Y a-t-il des arbres ou des bâtiments ? Dire à Flux 1.1 PRO ces petits détails peut rendre votre image beaucoup meilleure.",
+    "elementsTitle": "Éléments à inclure dans votre prompt",
+    "elementsubject": "Décrivez le sujet principal : Tout d'abord, dites à Flux 1.1 PRO quelle est la chose la plus importante dans votre image. Est-ce une personne, un animal ou peut-être un vaisseau spatial ? Donnez quelques détails sur cette chose principale.",
+    "elementbackground": "Ajoutez des informations de fond : Ensuite, pensez à l'endroit où se trouve votre chose principale. Est-ce dans une forêt, une ville ou sur la lune ? Dire à Flux 1.1 PRO à propos de l'arrière-plan aide à rendre toute l'image intéressante.",
+    "elementcolors": "Mentionnez les couleurs et l'éclairage : Les couleurs peuvent faire que votre image semble heureuse, triste ou excitante. Dites à Flux 1.1 PRO quelles couleurs vous voulez. Pensez aussi à la lumière. Est-ce ensoleillé ou y a-t-il un brouillard effrayant ?",
+    "elementstyle": "Spécifiez le style ou l'ambiance : Voulez-vous que votre image ressemble à un dessin animé ou plus à une vraie photo ? Devrait-elle être amusante ou sérieuse ? Dire à Flux 1.1 PRO le style que vous voulez peut faire une grande différence.",
+    "examplesTitle": "Exemples de bons prompts pour Flux 1.1 PRO",
+    "simpleExampleTitle": "Exemple de prompt simple",
+    "simpleExample": "'Flux 1.1 PRO, s'il vous plaît, faites une image d'un chat rouge heureux jouant avec une balle bleue dans un jardin vert.' C'est un bon début ! Cela dit à Flux 1.1 PRO la chose principale (le chat), ce qu'il fait et où il se trouve.",
+    "detailedExampleTitle": "Exemple de prompt plus détaillé",
+    "detailedExample": "'Flux 1.1 PRO, pouvez-vous créer une image d'un chevalier courageux chevauchant un cheval blanc ? Le chevalier devrait porter une armure argentée brillante et tenir un drapeau rouge. Ils chevauchent à travers une forêt sombre avec de grands arbres. Le ciel est orange parce que le soleil se couche. Faites-le ressembler à une peinture d'un livre de contes.' Ce prompt donne à Flux 1.1 PRO beaucoup de détails avec lesquels travailler. Il décrit le sujet principal, l'arrière-plan, les couleurs et même le style de l'image.",
+    "mistakesTitle": "Erreurs courantes à éviter",
+    "mistakevagueTitle": "Être trop vague",
+    "mistakevagueDescription": "Si vous dites simplement 'faites une jolie image', Flux 1.1 PRO ne saura pas ce que vous voulez. Il a besoin de plus d'informations pour créer quelque chose de cool.",
+    "mistakevagueBad": "'Flux 1.1 PRO, dessine quelque chose de joli.'",
+    "mistakevagueBetter": "'Flux 1.1 PRO, dessine un bel arc-en-ciel au-dessus d'un champ vert avec des fleurs.'",
+    "mistakecomplicatedTitle": "Utiliser des mots compliqués",
+    "mistakecomplicatedDescription": "Rappelez-vous, les mots simples fonctionnent mieux avec Flux 1.1 PRO. Vous n'avez pas besoin d'utiliser de grands mots pour obtenir de superbes images.",
+    "mistakecomplicatedBad": "'Flux 1.1 PRO, créez une image avec des rayons crépusculaires pénétrant une canopée arborée.'",
+    "mistakecomplicatedBetter": "'Flux 1.1 PRO, faites une image de la lumière du soleil brillant à travers les feuilles des arbres dans une forêt.'",
+    "mistakenoBackgroundTitle": "Oublier l'arrière-plan",
+    "mistakenoBackgroundDescription": "N'oubliez pas de dire à Flux 1.1 PRO où les choses se passent. L'arrière-plan peut rendre votre image beaucoup plus intéressante.",
+    "mistakenoBackgroundBad": "'Flux 1.1 PRO, dessine un éléphant.'",
+    "mistakenoBackgroundBetter": "'Flux 1.1 PRO, dessine un éléphant dans une savane avec de l'herbe, des arbres d'acacia et un ciel bleu.'",
+    "practiceTitle": "La pratique rend parfait",
+    "practiceDescription": "Plus vous utilisez Flux 1.1 PRO, meilleur vous deviendrez pour créer des prompts. Voici quelques conseils pour vous aider à vous améliorer :",
+    "practicedifferent": "Essayez différents prompts : N'ayez pas peur d'expérimenter ! Essayez de demander à Flux 1.1 PRO toutes sortes d'images différentes. Vous pourriez être surpris de ce que vous pouvez créer.",
+    "practicelearn": "Apprenez de vos résultats : Regardez de près les images que Flux 1.1 PRO fait pour vous. Si quelque chose n'est pas tout à fait correct, réfléchissez à la façon dont vous pouvez changer vos mots pour le rendre meilleur la prochaine fois.",
+    "conclusionTitle": "Conclusion",
+    "conclusionDescription": "Créer de grands prompts pour Flux 1.1 PRO est comme apprendre une nouvelle langue amusante. Plus vous pratiquez, meilleur vous deviendrez ! Rappelez-vous ces points clés :",
+    "conclusionPoint1": "Soyez spécifique et fournissez beaucoup de détails.",
+    "conclusionPoint2": "Utilisez des mots simples qui sont faciles à comprendre.",
+    "conclusionPoint3": "Décrivez le sujet principal, l'arrière-plan, les couleurs et le style.",
+    "conclusionPoint4": "Évitez d'être trop vague ou d'utiliser des mots compliqués.",
+    "conclusionPoint5": "N'oubliez pas l'arrière-plan !",
+    "conclusionPoint6": "Continuez à pratiquer et à apprendre de vos résultats.",
+    "ctaButton": "Essayez Flux 1.1 PRO maintenant !"
+  },
+  "testimonials": {
+    "ariaLabel": "Témoignages",
+    "title": "Voyez ce que nos utilisateurs disent de Flux 1.1 PRO",
+    "subtitle": "Découvrez comment Flux 1.1 PRO révolutionne la génération d'images IA pour les professionnels et les passionnés.",
+    "authorImageAlt": "Photo de profil de l'auteur",
+    "sarah": {
+      "content": "Flux 1.1 PRO a complètement transformé mon flux de travail. La vitesse et la qualité de la génération d'images sont inégalées. C'est 6 fois plus rapide que ce que j'utilisais avant !",
+      "name": "Sarah Johnson",
+      "role": "Designer graphique"
+    },
+    "michael": {
+      "content": "En tant que créateur de contenu, Flux 1.1 PRO est un changement de jeu. La gamme diverse de styles et la précision dans le suivi des prompts sont incroyables. C'est comme avoir un artiste professionnel au bout des doigts.",
+      "name": "Michael Chen",
+      "role": "YouTuber et créateur de contenu"
+    },
+    "emily": {
+      "content": "J'étais sceptique à propos de l'art IA, mais Flux 1.1 PRO a changé mon opinion. Le niveau de détail et de créativité dans les images générées est stupéfiant. C'est devenu un outil essentiel dans mon processus créatif.",
+      "name": "Emily Rodriguez",
+      "role": "Artiste numérique"
+    },
+    "david": {
+      "content": "L'API de Flux 1.1 PRO est le rêve d'un développeur. Elle est très facile à intégrer dans nos applications, et l'évolutivité est impressionnante. Nos clients sont stupéfaits par les résultats.",
+      "name": "David Smith",
+      "role": "Ingénieur logiciel"
+    },
+    "samantha": {
+      "content": "En tant que directrice artistique, j'ai besoin d'outils qui peuvent suivre des délais serrés. Flux 1.1 PRO non seulement répond à mes attentes, mais les dépasse. La vitesse et la qualité sont incomparables.",
+      "name": "Samantha Lee",
+      "role": "Directrice artistique"
+    },
+    "alex": {
+      "content": "Flux 1.1 PRO a révolutionné nos campagnes marketing. Nous pouvons maintenant créer des visuels uniques et accrocheurs en quelques minutes. C'est comme avoir toute une équipe de design en un seul outil.",
+      "name": "Alex Patel",
+      "role": "Responsable marketing"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "價格 - 您的服務名稱",
+    "description": "選擇最適合您需求的方案"
+  },
+  "title": "簡單固定價格",
+  "description": "簡單固定價格。",
+  "oneTimePurchase": "一次性購買",
+  "subscription": "訂閱",
+  "forCredits": "{{credits}} 點數",
+  "pricePerCredit": "每點數 ${{price}}",
+  "buyNow": "立即購買",
+  "subscribe": "訂閱",
+  "perMonth": "每月",
+  "oneTime": "一次性",
+  "popular": "熱門",
+  "plans": {
+    "One-Time": {
+      "name": "一次性購買"
+    },
+    "Basic": {
+      "name": "基本方案"
+    },
+    "Plus": {
+      "name": "進階方案"
+    },
+    "Pro": {
+      "name": "專業方案"
+    }
+  },
+  "sellingPoints": {
+    "noWatermark": "無浮水印",
+    "oneVideoPerCredit": "1點數 = 1次影片生成",
+    "downloadVideo": "下載影片",
+    "privateGenerations": "私人生成"
+  },
+  "subscriptionRecommendation": "我們推薦訂閱，因為您可以同時訂閱多個方案並輕鬆管理您的訂閱。",
+  "viewBillingPage": "查看帳單頁面"
+}

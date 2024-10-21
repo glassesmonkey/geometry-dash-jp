@@ -1,0 +1,265 @@
+我有一个工具站，主要是用于用户上传图片，通过 ai 自动扩展符合画风的场景将图片进行扩展到任意的分辨率。SEO 关键词是：ai expand image
+你帮我给网页写一个描述160 个字符以内，SEO 友好，包含关键词，英语
+
+# background
+我有一个工具站，主要是用于用户上传图片，通过 ai 自动扩展符合画风的场景将图片进行扩展到任意的分辨率。 使用 nextjs 开发，ts 语言
+
+# task
+1. 需要帮我设计一个扣费逻辑，用户 google 登录后，查询数据库，对应当前登录用户的Credit数量（  credit Int  @default(1)）。数据库表结构参考schema.prisma
+然后在页面上通过“Credits left:”展示剩余 credit 数量
+ <div className="text-right text-sm text-gray-600">
+                    Credits left: {data?.remainingGenerations}
+                  </div>
+
+
+2. 当用户点击'Extend image!'按钮，也需要查询一下当前 credit 数量，并对比用户当前选择的 Amount 数量，如果 Amount 数量大于 credit，则弹窗提示用户需要充值，如果 Amount 数量小于等于 credit，则继续执行后续流程
+                  {/* Extend image button */}
+                  <button
+                    className={`w-full font-semibold py-2 px-4 rounded-lg transition duration-300 ${
+                      loading || !originalPhoto || (!isTestEnv && status !== 'authenticated')
+                        ? 'bg-gray-400 text-gray-600 cursor-not-allowed'
+                        : 'bg-black text-white hover:bg-gray-800'
+                    }`}
+                    onClick={() => {
+                      if (originalPhoto && (isTestEnv || status === 'authenticated')) {
+                        generatePhoto(originalPhoto);
+                      }
+                    }}
+                    disabled={loading || !originalPhoto || (!isTestEnv && status !== 'authenticated')}
+                  >
+                    {loading ? <LoadingDots color="white" style="large" /> : 'Extend image!'}
+                  </button>
+
+
+                  {/* Amount selection */}
+                  <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-1">Amount</label>
+                    <select
+                      className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500"
+                      value={amount}
+                      onChange={(e) => setAmount(Number(e.target.value))}
+                    >
+                      {[1, 2, 3, 4].map(num => (
+                        <option key={num} value={num}>{num}</option>
+                      ))}
+                    </select>
+                  </div>
+3. expand-image.ts 执行成功后，直接在这个 ts 文件中加入操作数据库扣除 Amount 数量的 credit的逻辑
+
+请帮我提供解决方案，如果涉及到多个文件，请分别输出，并且不要省略代码输出
+
+#context 我有一个利用AI接口的能力帮助用户扩展图片的工具站。用的是nextjs，ts写的。
+ #task 目前我的界面上的结构是左边是控制板，右边是一个画布（画布的大部分逻辑在improvedcanvas中），展示用户上传的图片。用户上传图片后通过imageProcessing进行分辨率转换 我目前想在控制板上加一个标签页进行切换。
+具体需求如下：
+1. 当前的这部分选项例如Template，Image Position，Prompt (optional)，Amount属于 “speedmode”标签页，这块的最终输出结果的逻辑都不要被影响，还是保持原来的逻辑。
+2. 新增的逻辑是标签页high quality mode。这个模式下有Template，Prompt (optional)，Amount，去掉了Image Position。这个模式中图片的位置可以让用户自己拖动画布中的图片任意移动（但不能超出棋盘格画布）
+棋盘格画布代码："""
+                <div
+                    style={{
+                        width: `${innerCanvasSize.width}px`,
+                        height: `${innerCanvasSize.height}px`,
+                        position: 'relative',
+                        background: `
+              linear-gradient(45deg, #d0d0d0 25%, transparent 25%),
+              linear-gradient(-45deg, #d0d0d0 25%, transparent 25%),
+              linear-gradient(45deg, transparent 75%, #d0d0d0 75%),
+              linear-gradient(-45deg, transparent 75%, #d0d0d0 75%)
+            `,
+                        backgroundSize: '20px 20px',
+                        backgroundPosition: '0 0, 0 10px, 10px -10px, -10px 0px',
+                        overflow: 'hidden',
+                    }}
+                >
+                """
+3. high quality mode之下只影响ImprovedCanvas 的 imagePosition，imagePosition输出的是当前图片的位置距离顶部，底部，左边，右边的距离是多少，以及图片的相对画布的大小（相对画布的大小这块逻辑参考原来speedmode的逻辑）
+            <ImprovedCanvas
+              canvasRatio={selectedTemplate.ratio}
+              setCanvasRatio={setCanvasRatio}
+              originalPhoto={originalPhoto}
+              setOriginalPhoto={setOriginalPhoto}
+              zoom={zoom}
+              setZoom={setZoom}
+              imagePosition={imagePosition}
+              onImageSizeChange={handleImageSizeChange}
+              baseResolution={selectedTemplate.resolution}
+            />
+4.  最终await expandImage方法也需要额外实现一个（这个先空着待实现），因为最终两个mode下调用的是不同的供应商的接口扩展图片的
+
+5. 在high quality mode下注意图片拖动要丝滑，并且我的大部分用户在移动端，注意移动端的体验要好
+
+
+
+好的,我来帮你将这些关键词分类归纳一下。我会将相似功能和概念的词语归为一类。以下是分类结果:
+
+1. AI图像生成/扩展工具
+-  
+-  
+- ai image extender free
+- ai expand image
+- ai photo extender
+- ai image expander
+- ai extend image
+- expand image ai
+- ai photo expander
+- extender ai
+- picsart ai extender
+- ai picture expander
+
+2. 图像放大/扩展
+- image enlarger
+- enlarge image
+- enlarge picture
+- enlarging photo
+- image expander
+- expand picture
+- expand pics
+- pic expansion
+- picture enlarger
+- photo expander
+- expand photo
+- make picture bigger
+
+3. AI填充/延伸背景
+- generative fill
+- generative ai images
+- uncrop image tool
+- uncrop free
+- uncrop ai
+- pfulfill picture
+- generative fill ai
+- expanding background with ai
+- photoshop extend borders
+- generative expand toolkit
+- outpainting
+- generative fill online
+- generative fill background
+- ai fill in image
+
+4. 免费AI图像工具
+- free ai image
+- free ai images
+- ai images free
+- free ai inpainting
+- free online ai image generator
+- generate photo free
+- ai image free
+- free ai online
+- ai free online
+
+5. 特定AI图像处理功能
+- image ia
+- my widener
+
+- a.i. auto fill extend edges
+- ai enlargement software
+- stretching gif
+- ai crop image
+- ai landscape generator based on photo
+
+6. 图像处理相关术语
+- image filler
+- extend image
+- expand image
+- stretch gif
+- zoom picture without losing quality
+- picture auto images
+
+7. AI图像生成平台/扩展
+- magic studio
+- ai art generator
+- ai extensions to find filler in anime
+- google chrome ai image extension
+- my-extender
+
+8. 多语言关键词
+- ampliar imagen con ia (西班牙语:用AI扩展图像)
+- expandir imagem ia (葡萄牙语:用AI扩展图像)
+- imagen artificial intelligence (西班牙语:人工智能图像)
+
+9. 其他相关词语
+- ai image prompts
+- camera height ai
+- ai picture separator
+- ai internet photo
+- ai uploader
+- images.ia
+- pics and images ai
+
+Generative Fill
+
+这些分类涵盖了主要的AI图像处理、生成和扩展相关的关键词。您可以根据这些分类来组织您的落地页内容,以提高SEO效果。每个类别都可以作为一个子部分,详细介绍相关功能和工具。
+
+如果您需要我进一步细化某个类别或者对分类进行调整,请告诉我。
+
+
+租车的选择表单
+
+为什么选择我们
+
+一些优惠车型列出
+
+租车的重要提示
+
+一些用户的建议
+常见FAQ 
+纽约租车公司点评及资讯
+纽约附近的租车地点
+博客文章直接在主页列出，并列出一篇文章在主页上---纽约市租车和驾驶综合指南
+关于纽约租车您需要了解的一切
+纽约租车信息
+
+
+我想把这段文案加入到我的nextjs项目中，目前我的项目使用了 next-i18next 做多语言。
+
+我希望你帮我把这段文件生成一个组件，插入到我的主页中，我的主页代码见附件。我希望加在      <HowItWorksSection /> 之后，注意多语言的实现
+
+UI 样式参考这段代码：
+
+
+const lang = image-enlarger
+const url = https://flux1.one/image-enlarger
+我是准备新建立一个内页， 路径是{$url} ,这个情况下{$lang}.tsx 的代码应该怎么写
+
+背景介绍：我上传的文案是我的一个 AI 扩图的工具站的介绍以及页面的代码（nextjs 项目，ts 语言），我目前准备新建立一个内页，路径是{$url} ,文件名：{$lang}.tsx
+我需要用这个新的页面做 one page SEO，我希望你根据我提供的json素材以及 index.tsx 代码，输出符合我当前 SEO 关键词的文案
+
+SEO 关键词：
+- image enlarger
+- enlarge image
+- enlarge picture
+- enlarging photo
+- image expander
+- expand picture
+- expand pics
+- pic expansion
+- picture enlarger
+- photo expander
+- expand photo
+- make picture bigger
+
+文案的改写要求：
+## goal:
+- 帮助用户编写高质量、SEO友好的网页文案
+- 提供具体的改进建议和改进原因，引导用户进行改进。
+- 用美式英语输出
+## marking_scheme:
+- 可读性检查 (Readability check)：文案内容是否清晰明确，无歧义？用词是否简单易懂？
+- 标题检查 (Title Check)：标题是否包含关键词？是否适合SEO收录？
+- 内容检查 (Content inspection)：长段落是否太多？是否有难以阅读的长句或者复杂语句？
+- 创造性 (Creativity)：内容是否激发模型的创造性思考和生成？
+- 结构 (Structure)：文章结构是否有助于SEO优化和让人类容易阅读？
+- 语法和流畅性 (Grammar and Fluency)：提示的语法是否正确？语言是否自然、流畅？
+## Requirements_for_content:
+1. 文案口气自然，避免过于官方、书面的语气和用词，最好能让5岁小朋友都能理解。
+2. 可读性：减少复杂的长难句，尽量不要用生僻的词语
+确保关键词在标题和内容开头出现
+确保关键词密度适中，密度保持在4%~7%
+## self_examination:
+- 关键词覆盖自查
+- 关键词密度检
+
+
+我需要你帮我写的是：{$lang}.tsx的代码，以及仿照组件  <FeaturesSection />      <HowItWorksSection />      <AIExpandImageFeatures />      <AIImageExpanderTips />      <FAQSection />      <Testimonials />      <AIExpandImageGuide />写新的组件代码，以及把文案都放到{$lang}.json中
+
+
+先不用急着输出所有的代码和文案，我之后会让你分批输出，先说说你打算如何优化我的文案来达到融入我提供的关键词进行 one page seo 的目的。

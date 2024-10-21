@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "title": "Fatturazione e Abbonamenti | Nome del Tuo Servizio",
+    "description": "Gestisci i tuoi abbonamenti, visualizza la cronologia di fatturazione e aggiorna le informazioni di pagamento."
+  },
+  "title": "Fatturazione e Abbonamenti",
+  "description": "Gestisci i tuoi abbonamenti e le informazioni di fatturazione",
+  "loading": "Caricamento in corso...",
+  "currentPlan": "Piano Attuale",
+  "credits": "Crediti Disponibili",
+  "status": "Stato",
+  "renewalDate": "Prossimo rinnovo il {{date}}",
+  "cancelAtPeriodEnd": "Si cancella il {{date}}",
+  "cancelAt": "Programmato per essere cancellato il {{date}}",
+  "canceledAt": "Cancellato il {{date}}",
+  "cancelSubscription": "Cancella Abbonamento",
+  "cancelConfirmation": "Sei sicuro di voler cancellare il tuo abbonamento?",
+  "cancelSuccess": "Il tuo abbonamento è stato cancellato con successo",
+  "cancelError": "Si è verificato un errore durante la cancellazione del tuo abbonamento. Per favore riprova.",
+  "noPlan": "Nessun Abbonamento Attivo",
+  "noPlanDescription": "Al momento non hai un abbonamento attivo. Scegli un piano per iniziare.",
+  "viewPlans": "Visualizza Piani",
+  "billingHistory": "Cronologia di Fatturazione",
+  "subscriptionStatus": {
+    "active": "Attivo",
+    "canceled": "Cancellato",
+    "incomplete": "Incompleto",
+    "incomplete_expired": "Scaduto (Incompleto)",
+    "past_due": "In Ritardo",
+    "trialing": "In Prova",
+    "unpaid": "Non Pagato"
+  },
+  "interval": {
+    "day": "giorno",
+    "week": "settimana",
+    "month": "mese",
+    "year": "anno"
+  },
+  "errors": {
+    "fetchFailed": "Impossibile recuperare i dati dell'abbonamento. Per favore riprova.",
+    "updateFailed": "Impossibile aggiornare l'abbonamento. Per favore riprova.",
+    "general": "Si è verificato un errore. Per favore riprova più tardi."
+  }
+}

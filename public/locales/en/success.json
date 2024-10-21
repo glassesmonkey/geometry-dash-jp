@@ -1,0 +1,16 @@
+{
+    "loading": "Loading...",
+    "meta": {
+      "title": "Payment Successful - Thank You!",
+      "description": "Your payment has been processed successfully. Thank you for your purchase!"
+    },
+    "thankYou": "Thank You!",
+    "paymentSuccessful": "Your payment was successful.",
+    "goToMainFeature": "Go to AI expand",
+    "error": "Error",
+    "errors": {
+      "noSessionId": "No session ID found. Please try your purchase again.",
+      "invalidSession": "Invalid session. Please contact customer support if the problem persists."
+    },
+    "backToPricing": "Back to Pricing"
+  }

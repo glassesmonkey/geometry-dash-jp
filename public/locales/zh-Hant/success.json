@@ -1,0 +1,16 @@
+{
+  "loading": "載入中...",
+  "meta": {
+    "title": "付款成功 - 謝謝您！",
+    "description": "您的付款已成功處理。感謝您的購買！"
+  },
+  "thankYou": "謝謝您！",
+  "paymentSuccessful": "您的付款已成功。",
+  "goToMainFeature": "前往 AI Hug 生成器",
+  "error": "錯誤",
+  "errors": {
+    "noSessionId": "未找到會話 ID。請重新嘗試您的購買。",
+    "invalidSession": "無效的會話。如果問題持續存在，請聯繫客戶支援。"
+  },
+  "backToPricing": "返回價格頁面"
+}

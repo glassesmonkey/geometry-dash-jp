@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "الأسعار - اسم خدمتك",
+    "description": "اختر الخطة المثالية لاحتياجاتك"
+  },
+  "title": "أسعار بسيطة وثابتة",
+  "description": "أسعار بسيطة وثابتة.",
+  "oneTimePurchase": "شراء لمرة واحدة",
+  "subscription": "اشتراك",
+  "forCredits": "مقابل {{credits}} رصيد",
+  "pricePerCredit": "{{price}} دولار لكل رصيد",
+  "buyNow": "اشترِ الآن",
+  "subscribe": "اشترك",
+  "perMonth": "شهريًا",
+  "oneTime": "مرة واحدة",
+  "popular": "الأكثر شعبية",
+  "plans": {
+    "One-Time": {
+      "name": "شراء لمرة واحدة"
+    },
+    "Basic": {
+      "name": "الخطة الأساسية"
+    },
+    "Plus": {
+      "name": "الخطة الإضافية"
+    },
+    "Pro": {
+      "name": "الخطة الاحترافية"
+    }
+  },
+  "sellingPoints": {
+    "noWatermark": "بدون علامة مائية",
+    "oneVideoPerCredit": "رصيد واحد = إنشاء فيديو واحد",
+    "downloadVideo": "تحميل الفيديو",
+    "privateGenerations": "إنشاءات خاصة"
+  },
+  "subscriptionRecommendation": "نوصي بالاشتراك حيث يمكنك الاشتراك في خطط متعددة في وقت واحد وإدارة اشتراكاتك بسهولة.",
+  "viewBillingPage": "عرض صفحة الفواتير"
+}

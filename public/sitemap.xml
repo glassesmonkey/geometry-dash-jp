@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://flux1.one/sitemap-en.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://flux1.one/sitemap-ar.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://flux1.one/sitemap-pt-BR.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://flux1.one/sitemap-fr.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://flux1.one/sitemap-es.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://flux1.one/sitemap-zh-Hant.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://flux1.one/sitemap-de.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://flux1.one/sitemap-ja.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://flux1.one/sitemap-ko.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>https://flux1.one/sitemap-it.xml</loc>
+    <lastmod>2024-10-09T15:01:15.443Z</lastmod>
+  </sitemap>
+</sitemapindex>

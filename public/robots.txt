@@ -1,0 +1,18 @@
+# Global rules
+User-agent: *
+Allow: /
+Disallow: /*/MediaCoverage
+Disallow: /*/privacypolicy
+Disallow: /*/terms-of-service
+Disallow: /*/blog
+
+# ClaudeBot specific rules
+User-agent: ClaudeBot
+Disallow: /
+
+# Host
+Host: https://flux1.one
+
+# Sitemaps
+Sitemap: https://flux1.one/sitemap.xml
+Sitemap: https://flux1.one/server-sitemap.xml

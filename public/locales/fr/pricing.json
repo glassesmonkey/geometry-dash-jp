@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "title": "Tarifs - Nom de votre Service",
+    "description": "Choisissez le forfait parfait pour vos besoins"
+  },
+  "title": "Tarification Simple et Fixe",
+  "description": "Tarification simple et fixe.",
+  "oneTimePurchase": "Achat Unique",
+  "subscription": "Abonnement",
+  "forCredits": "Pour {{credits}} crédits",
+  "pricePerCredit": "{{price}}€ par crédit",
+  "buyNow": "Acheter Maintenant",
+  "subscribe": "S'abonner",
+  "perMonth": "par mois",
+  "oneTime": "une seule fois",
+  "popular": "Populaire",
+  "plans": {
+    "One-Time": {
+      "name": "Achat Unique"
+    },
+    "Basic": {
+      "name": "Forfait Basique"
+    },
+    "Plus": {
+      "name": "Forfait Plus"
+    },
+    "Pro": {
+      "name": "Forfait Pro"
+    }
+  },
+  "sellingPoints": {
+    "noWatermark": "Sans filigrane",
+    "oneVideoPerCredit": "1 crédit = 1 génération de vidéo",
+    "downloadVideo": "Télécharger la Vidéo",
+    "privateGenerations": "Générations Privées"
+  },
+  "subscriptionRecommendation": "Nous recommandons l'abonnement car vous pouvez vous abonner à plusieurs forfaits simultanément et gérer facilement vos abonnements.",
+  "viewBillingPage": "Voir la page de facturation"
+}
