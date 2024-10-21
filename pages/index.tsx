@@ -1,23 +1,20 @@
 import { NextPage, GetStaticProps, GetStaticPropsContext } from 'next';
 import Head from 'next/head';
-import Image from 'next/image';
-import Link from 'next/link';
+
 import Footer from '../components/Footer';
 import Header from '../components/Header';
-// import SquigglyLines from '../components/SquigglyLines';
-import { Testimonials } from '../components/Testimonials';
-import AIExpandImageFeatures from '../components/AIExpandImageFeatures';
+import  Testimonials  from '../components/Testimonials';
 import FeaturesSection from '../components/FeaturesSection';
 import HowItWorksSection from '../components/HowItWorksSection';
 import GameTips from '../components/GameTips';
 import FAQSection from '../components/FAQSection';
+import GameGuide from '../components/GameGuide';
+
 import { useRouter } from 'next/router';
 import { useTranslation } from 'next-i18next';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
-import AIImageExpanderTips from '../components/AIImageExpanderTips';
-import AIExpandImageGuide from '../components/AIExpandImageGuide';
 import { useState, useRef } from 'react';
-import GameGuide from '../components/GameGuide';
+
 
 const Home: NextPage = () => {
   const { t } = useTranslation('common');

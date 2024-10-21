@@ -1,20 +1,20 @@
 module.exports = {
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'ja',
     locales: [
-      'en',       // English (Global)
-      'zh-Hant',  // Traditional Chinese
-      'es',       // Spanish
-      // 'hi',       // Hindi (India)
-      // 'ur',       // Urdu (Pakistan)
-      'ar',       // Arabic
-      'fr',       // French
-      'pt-BR',    // Portuguese (Brazil)
-      // 'id'        // Indonesian
-      'ko',       // Korean
+      // 'en',       // English (Global)
+      // 'zh-Hant',  // Traditional Chinese
+      // 'es',       // Spanish
+      // // 'hi',       // Hindi (India)
+      // // 'ur',       // Urdu (Pakistan)
+      // 'ar',       // Arabic
+      // 'fr',       // French
+      // 'pt-BR',    // Portuguese (Brazil)
+      // // 'id'        // Indonesian
+      // 'ko',       // Korean
       'ja',       // Japanese
-      'it',       // Italian
-      'de',       // German
+      // 'it',       // Italian
+      // 'de',       // German
     ],
   },
   defaultNS: 'common',

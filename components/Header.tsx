@@ -44,16 +44,16 @@ export default function Header() {
   }, [session]);
 
   const languages: Language[] = [
-    { code: 'en', name: 'English', shortName: 'EN' },
-    { code: 'es', name: 'Español', shortName: 'ES' },
-    { code: 'ar', name: 'العربية', shortName: 'AR' },
-    { code: 'fr', name: 'Français', shortName: 'FR' },
-    { code: 'pt-BR', name: 'Português', shortName: 'PT' },
-    { code: 'zh-Hant', name: '繁體中文', shortName: 'ZH' },
-    { code: 'de', name: 'Deutsch', shortName: 'DE' }, 
+    // { code: 'en', name: 'English', shortName: 'EN' },
+    // { code: 'es', name: 'Español', shortName: 'ES' },
+    // { code: 'ar', name: 'العربية', shortName: 'AR' },
+    // { code: 'fr', name: 'Français', shortName: 'FR' },
+    // { code: 'pt-BR', name: 'Português', shortName: 'PT' },
+    // { code: 'zh-Hant', name: '繁體中文', shortName: 'ZH' },
+    // { code: 'de', name: 'Deutsch', shortName: 'DE' }, 
 { code: 'ja', name: '日本語', shortName: 'JA' },  // japan）
-{ code: 'ko', name: '한국어', shortName: 'KO' },  //kran
-{ code: 'it', name: 'Italiano', shortName: 'IT' },  //italiy
+// { code: 'ko', name: '한국어', shortName: 'KO' },  //kran
+// { code: 'it', name: 'Italiano', shortName: 'IT' },  //italiy
   ];
   const handleLanguageChange = (langCode: string) => {
     router.push(router.pathname, router.asPath, { locale: langCode });
