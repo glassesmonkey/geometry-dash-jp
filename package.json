@@ -6,8 +6,8 @@
     "generate-sitemap": "node generate-sitemap.mjs",
     "build": "next build && npm run generate-sitemap",
     "start": "next start",
-    "vercel-build": "prisma generate && next build",
-    "prisma:generate": "prisma generate"
+    "vercel-build": " next build"
+    
   },
   "dependencies": {
     "@aws-sdk/client-s3": "^3.635.0",
