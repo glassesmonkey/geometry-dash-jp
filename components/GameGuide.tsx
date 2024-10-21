@@ -48,8 +48,10 @@ const GameGuide = () => {
                 const items = t(`gameGuide.${section}.items`, { returnObjects: true });
                 console.log('Items:', items); // 调试输出
                 if (Array.isArray(items)) {
-                  return items.map((item: string, index: number) => (
-                    <li key={index} className="mb-2">{item}</li>
+                  return items.map((item: string | object, index: number) => (
+                    <li key={index} className="mb-2">
+                      {typeof item === 'string' ? item : JSON.stringify(item)}
+                    </li>
                   ));
                 } else {
                   console.error('Expected an array but got:', items);
