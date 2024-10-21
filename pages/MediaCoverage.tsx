@@ -5,14 +5,9 @@ import Footer from '../components/Footer';
 
 const MediaCoverage: NextPage = () => {
   const coverageLinks = [
-    { title: "Product Hunt", url: "https://www.producthunt.com/posts/flux1-one" },
-    { title: "sitelike", url: "https://www.sitelike.org/similar/geometrydashjp.com/" },
-    { title: "dev.to", url: "https://dev.to/alex_e54ceb5959bc9684e0ea/how-to-create-better-prompts-for-high-quality-images-with-flux-11-pro-41a" },
-    { title: "v2ex", url: "https://www.v2ex.com/t/1078840" },
-    { title: "issuu", url: "https://issuu.com/flux11" },
-    { title: "Telegra.ph", url: "https://telegra.ph/How-to-Create-Better-Prompts-for-High-Quality-Images-with-Flux-11-PRO-10-11" },
-    { title: "91wink", url: "https://www.91wink.com/?p=7421" },
-    { title: "foundr", url: "https://foundr.ai/product/flux-1-1-pro-generator" },
+ { title: "v2ex", url: "https://www.v2ex.com/t/1082364" },
+ { title: "github", url: "https://github.com/glassesmonkey/geometry-dash-jp" },
+
   ];
 
   
