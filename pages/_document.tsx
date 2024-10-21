@@ -8,14 +8,14 @@ class MyDocument extends Document {
         <Head>
           <link rel='icon' href='/icons/favicon.ico' />
           {/* Google Analytics */}
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-MKBDTBXHJ7"></script>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-2L9TDELTW2"></script>
           <script
             dangerouslySetInnerHTML={{
               __html: `
                 window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
-                gtag('config', 'G-XLBGHXEDT9');
+                gtag('config', '2L9TDELTW2');
               `,
             }}
           />
