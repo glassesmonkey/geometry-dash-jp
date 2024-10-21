@@ -14,7 +14,7 @@ const Footer: React.FC = () => {
         <div className="py-16 grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Logo and description */}
           <div className="space-y-4">
-            <Link href="/" className="text-2xl font-bold">flux 1.1 Pro</Link>
+            <Link href="/" className="text-2xl font-bold">Geometry dash</Link>
             <p className="text-sm text-gray-600">
               {t('footer.description')}
             </p>
@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
               <h3 className="font-semibold mb-2">{t('footer.product')}</h3>
               <ul className="space-y-2">
                 <li><Link href="/waitlist" className="text-sm text-gray-600 hover:text-black">{t('footer.features')}</Link></li>
-                <li><Link href="/MediaCoverage" className="text-sm text-gray-600 hover:text-black">Media Coverage-flux 1.1 Pro generator</Link></li>
+                <li><Link href="/MediaCoverage" className="text-sm text-gray-600 hover:text-black">Media Coverage-geometry dash jp</Link></li>
 
                 {/* <li><Link href="/pricing" className="text-sm text-gray-600 hover:text-black">Pricing</Link></li> */}
               </ul>
@@ -39,19 +39,9 @@ const Footer: React.FC = () => {
                 {isIndexPage && (
                   <>
                     
-                    <a href="https://tap4.ai/" title="Tap4" className="partner-link" rel="noopener noreferrer" target="_blank">Tap4</a>
+                    
                     <a href="https://ai-hug.org/" title="AI HUG" className="partner-link" rel="noopener noreferrer" target="_blank">AI HUG</a>
-                    <a href="https://www.aitoolnet.com/" title="bento" className="partner-link" rel="noopener noreferrer" target="_blank">Friend link-aitoolnet</a>
-                    <a href="https://aiwith.me/" title="Discover thousands of AI Tools" className="partner-link" rel="noopener noreferrer" target="_blank">AI With Me</a>
-                    <a href="https://dang.ai/" target="_blank" rel="noopener noreferrer">
-                      <img
-                        src="https://cdn.prod.website-files.com/63d8afd87da01fb58ea3fbcb/6487e2868c6c8f93b4828827_dang-badge.png"
-                        alt="Dang.ai"
-                        style={{ width: '150px', height: '54px' }}
-                        width={150}
-                        height={54}
-                      />
-                    </a>
+                   
                   </>
                 )}
               </ul>

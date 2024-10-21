@@ -53,57 +53,44 @@ const Home: NextPage = () => {
         <script type="application/ld+json">
           {JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "WebApplication",
-            "name": "AI Image Generator powered by Flux 1.1 PRO",
-            "applicationCategory": "MultimediaApplication",
+            "@type": "VideoGame",
+            "name": {
+              "@language": "ja",
+              "@value": "ジオメトリーダッシュオンライン"
+            },
+            "applicationCategory": "Game",
             "operatingSystem": "Any",
-            "description": "Our web application utilizes the advanced Flux 1.1 PRO AI to generate high-quality images from text descriptions. Experience unprecedented speed and accuracy in AI image creation.",
-
+            "description": {
+              "@language": "ja",
+              "@value": "ジオメトリーダッシュオンラインは、無料で遊べる音楽リズムアクションゲームです。音楽に合わせたスリリングなゲームプレイを体験し、自分だけのレベルを作成し、様々なゲームモードで自分に挑戦しましょう。"
+            },
+            "inLanguage": ["ja"],
             "aggregateRating": {
               "@type": "AggregateRating",
-              "ratingValue": "4.8",
-              "reviewCount": "529"
+              "ratingValue": "4.7",
+              "reviewCount": "1024"
             },
             "review": [
               {
                 "@type": "Review",
+                "inLanguage": "ja",
                 "author": {
                   "@type": "Person",
-                  "name": "Sarah Johnson"
+                  "name": "田中"
                 },
                 "reviewRating": {
                   "@type": "Rating",
                   "ratingValue": "5"
                 },
-                "reviewBody": "This AI image generator is incredible! The speed and quality of image generation are unmatched. It's 6 times faster than other tools I've used!"
-              },
-              {
-                "@type": "Review",
-                "author": {
-                  "@type": "Person",
-                  "name": "Michael Chen"
-                },
-                "reviewRating": {
-                  "@type": "Rating",
-                  "ratingValue": "4.8"
-                },
-                "reviewBody": "As a content creator, this tool is a game-changer. The diverse range of styles and the accuracy in following prompts are incredible. It's like having a professional artist at my fingertips."
+                "reviewBody": "ジオメトリーダッシュにハマって3ヶ月。最初は難しくて何度もくやしい思いをしたけど、クリアした時の達成感がたまらない！音楽もノリノリで、勉強の合間のストレス発散にぴったり。"
               }
             ],
-            "featureList": [
-              "AI-powered image generation using Flux 1.1 PRO",
-              "6 times faster than conventional AI image generators",
-              "Image output up to 2K resolution",
-              "Improved prompt understanding for accurate results",
-              "Diverse artistic styles available"
-            ],
-            // "screenshot": "https://nos.flux1.one/front.webp",
-            "url": "https://flux1.one",
-            "provider": {
-              "@type": "Organization",
-              "name": "Flux1.one",
-              "url": "https://flux1.one"
-            }
+            "gamePlatform": ["Web Browser", "Online"],
+            "genre": ["Music Game", "Action Game", "Platform Game"],
+            "url": "https://your-geometry-dash-website.com",
+            "sameAs": [
+              "https://your-geometry-dash-website.com/ja"
+            ]
           })}
         </script>
 
@@ -114,58 +101,30 @@ const Home: NextPage = () => {
             "mainEntity": [
               {
                 "@type": "Question",
-                "name": t('faq.question1'),
+                "name": {
+                  "@language": "ja",
+                  "@value": "ジオメトリーダッシュは無料でプレイできますか？"
+                },
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": t('faq.answer1')
+                  "text": {
+                    "@language": "ja",
+                    "@value": "初心者にも楽しめる易しいレベルから、上級者向けの難しいレベルまで幅広く用意されています。自分のペースで少しずつ挑戦していけば、誰でも楽しめるゲームです。"
+                  }
                 }
               },
               {
                 "@type": "Question",
-                "name": t('faq.question2'),
+                "name": {
+                  "@language": "ja",
+                  "@value": "ジオメトリーダッシュは無料でプレイできますか？"
+                },
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": t('faq.answer2')
-                }
-              },
-              {
-                "@type": "Question",
-                "name": t('faq.question3'),
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": t('faq.answer3')
-                }
-              },
-              {
-                "@type": "Question",
-                "name": t('faq.question4'),
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": t('faq.answer4')
-                }
-              },
-              {
-                "@type": "Question",
-                "name": t('faq.question5'),
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": t('faq.answer5')
-                }
-              },
-              {
-                "@type": "Question",
-                "name": t('faq.question6'),
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": t('faq.answer6')
-                }
-              },
-              {
-                "@type": "Question",
-                "name": t('faq.question7'),
-                "acceptedAnswer": {
-                  "@type": "Answer",
-                  "text": t('faq.answer7')
+                  "text": {
+                    "@language": "ja",
+                    "@value": "基本プレイは無料ですが、全ての機能を楽しむには有料版の購入が必要です。無料版「ジオメトリーダッシュライト」で雰囲気を味わってみるのもおすすめです。"
+                  }
                 }
               }
             ]
@@ -233,3 +192,6 @@ export const getStaticProps: GetStaticProps = async ({ locale }: GetStaticPropsC
   };
 };
 export default Home;
+
+
+

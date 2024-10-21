@@ -22,17 +22,17 @@ const MediaCoverage: NextPage = () => {
   return (
     <div className="flex max-w-6xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
-        <title>Media Coverage - Flux 1.1 Pro Generator</title>
+        <title>Media Coverage - geometry dash</title>
         <link rel="icon" href="/icons/favicon.ico" />
       </Head>
 
       <Header />
 
       <main className="flex flex-col items-center justify-center w-full flex-1 px-4 text-center">
-        <h1 className="text-4xl md:text-6xl font-bold mb-8">Media Coverage About Flux 1.1 Pro Generator</h1>
+        <h1 className="text-4xl md:text-6xl font-bold mb-8">Media Coverage About geometry dash</h1>
         
         <p className="text-xl mb-12 max-w-2xl">
-          Discover what the media is saying about Flux 1.1 Pro Generator and our innovative technology.
+          Discover what the media is saying about geometry dash and our innovative technology.
         </p>
 
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3 w-full max-w-4xl">
