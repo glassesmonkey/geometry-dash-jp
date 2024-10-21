@@ -6,7 +6,7 @@ import Footer from '../components/Footer';
 const MediaCoverage: NextPage = () => {
   const coverageLinks = [
     { title: "Product Hunt", url: "https://www.producthunt.com/posts/flux1-one" },
-    { title: "sitelike", url: "https://www.sitelike.org/similar/flux1.one/" },
+    { title: "sitelike", url: "https://www.sitelike.org/similar/geometrydashjp.com/" },
     { title: "dev.to", url: "https://dev.to/alex_e54ceb5959bc9684e0ea/how-to-create-better-prompts-for-high-quality-images-with-flux-11-pro-41a" },
     { title: "v2ex", url: "https://www.v2ex.com/t/1078840" },
     { title: "issuu", url: "https://issuu.com/flux11" },

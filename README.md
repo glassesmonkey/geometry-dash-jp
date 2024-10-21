@@ -1,4 +1,4 @@
-# [flux1.one](https://flux1.one/)
+# [geometrydashjp.com](https://geometrydashjp.com/)
 
 This project expand image using AI. 
 

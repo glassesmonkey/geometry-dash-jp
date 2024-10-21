@@ -12,7 +12,7 @@ const TermsOfService: NextPage = () => {
     <div className="flex max-w-6xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
         <title>{t('meta.title')}</title>
-        <link rel="canonical" href="https://flux1.one/terms-of-service" />
+        <link rel="canonical" href="https://geometrydashjp.com/terms-of-service" />
         <meta name="robots" content="noindex, nofollow" />
       </Head>
       

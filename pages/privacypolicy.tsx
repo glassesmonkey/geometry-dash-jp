@@ -12,7 +12,7 @@ const PrivacyPolicy: NextPage = () => {
     <div className="flex max-w-6xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
         <title>{t('meta.title')}</title>
-        <link rel="canonical" href="https://flux1.one/privacypolicy" />
+        <link rel="canonical" href="https://geometrydashjp.com/privacypolicy" />
         <meta name="robots" content="noindex, nofollow" />
       </Head>
       

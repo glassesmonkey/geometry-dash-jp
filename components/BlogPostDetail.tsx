@@ -44,7 +44,7 @@ const BlogPostDetail: React.FC<BlogPostDetailProps> = ({ post }) => {
       />
 
       <div className="mt-12 text-center">
-        <Link href="https://flux1.one" className="inline-block text-white font-semibold py-3 px-6 rounded-lg transition duration-300 gradient-button">
+        <Link href="https://geometrydashjp.com" className="inline-block text-white font-semibold py-3 px-6 rounded-lg transition duration-300 gradient-button">
           Expand your Image Now!
         </Link>
       </div>

@@ -217,7 +217,7 @@ UI 样式参考这段代码：
 
 
 const lang = image-enlarger
-const url = https://flux1.one/image-enlarger
+const url = https://geometrydashjp.com/image-enlarger
 我是准备新建立一个内页， 路径是{$url} ,这个情况下{$lang}.tsx 的代码应该怎么写
 
 背景介绍：我上传的文案是我的一个 AI 扩图的工具站的介绍以及页面的代码（nextjs 项目，ts 语言），我目前准备新建立一个内页，路径是{$url} ,文件名：{$lang}.tsx

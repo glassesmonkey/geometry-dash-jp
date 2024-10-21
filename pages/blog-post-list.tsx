@@ -30,10 +30,10 @@ const BlogListPage: NextPage<BlogListPageProps> = ({ posts }) => {
             key={l}
             rel="alternate"
             hrefLang={l}
-            href={`https://flux1.one${l === defaultLocale ? '' : `/${l}`}/blog-post-list`}
+            href={`https://geometrydashjp.com${l === defaultLocale ? '' : `/${l}`}/blog-post-list`}
           />
         ))}
-        <link rel="alternate" hrefLang="x-default" href="https://flux1.one/blog-post-list" />
+        <link rel="alternate" hrefLang="x-default" href="https://geometrydashjp.com/blog-post-list" />
       </Head>
 
       <Header />

@@ -20,7 +20,7 @@ const Home: NextPage = () => {
   const { t } = useTranslation('common');
   const router = useRouter();
   const { locale, locales, defaultLocale, pathname } = router;
-  const canonicalUrl = `https://flux1.one${locale === defaultLocale ? '' : `/${locale}`}${pathname}`;
+  const canonicalUrl = `https://geometrydashjp.com${locale === defaultLocale ? '' : `/${locale}`}${pathname}`;
   const [showGame, setShowGame] = useState(false);
   const iframeRef = useRef<HTMLIFrameElement>(null);
   const [iframeLoaded, setIframeLoaded] = useState(false);
@@ -32,7 +32,7 @@ const Home: NextPage = () => {
 
         <title>{t('meta.title')}</title>
         <link rel="canonical" href={canonicalUrl} />
-        {/* <link rel="dns-prefetch" href="https://nos.flux1.one"></link> */}
+        {/* <link rel="dns-prefetch" href="https://nos.geometrydashjp.com"></link> */}
 
         {/* hreflang 标记 */}
         {locales?.map((l) => (
@@ -40,7 +40,7 @@ const Home: NextPage = () => {
             key={l}
             rel="alternate"
             hrefLang={l}
-            href={`https://flux1.one${l === defaultLocale ? '' : `/${l}`}${pathname}`}
+            href={`https://geometrydashjp.com${l === defaultLocale ? '' : `/${l}`}${pathname}`}
           />
         ))}
 
@@ -48,7 +48,7 @@ const Home: NextPage = () => {
         <link
           rel="alternate"
           hrefLang="x-default"
-          href={`https://flux1.one${pathname}`}
+          href={`https://geometrydashjp.com${pathname}`}
         />
         <script type="application/ld+json">
           {JSON.stringify({

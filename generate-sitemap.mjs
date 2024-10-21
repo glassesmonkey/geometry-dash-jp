@@ -2,19 +2,19 @@ import { writeFileSync } from "fs";
 import { globby } from "globby";
 import prettier from "prettier";
 
-const BASE_URL = "https://flux1.one";
+const BASE_URL = "https://geometrydashjp.com";
 
 const DOMAIN_CONFIG = {
-  en: BASE_URL,
-  ar: `${BASE_URL}/ar`,
-  "pt-BR": `${BASE_URL}/pt-BR`,
-  fr: `${BASE_URL}/fr`,
-  es: `${BASE_URL}/es`,
-  "zh-Hant": `${BASE_URL}/zh-Hant`,
-  de: `${BASE_URL}/de`,
-  ja: `${BASE_URL}/ja`,
-  ko: `${BASE_URL}/ko`,
-  it: `${BASE_URL}/it`
+  ja: BASE_URL,
+  // ar: `${BASE_URL}/ar`,
+  // "pt-BR": `${BASE_URL}/pt-BR`,
+  // fr: `${BASE_URL}/fr`,
+  // es: `${BASE_URL}/es`,
+  // "zh-Hant": `${BASE_URL}/zh-Hant`,
+  // de: `${BASE_URL}/de`,
+  // ja: `${BASE_URL}/ja`,
+  // ko: `${BASE_URL}/ko`,
+  // it: `${BASE_URL}/it`
 };
 async function generate() {
   const sitemapFiles = [];
