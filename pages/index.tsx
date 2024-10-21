@@ -9,18 +9,25 @@ import { Testimonials } from '../components/Testimonials';
 import AIExpandImageFeatures from '../components/AIExpandImageFeatures';
 import FeaturesSection from '../components/FeaturesSection';
 import HowItWorksSection from '../components/HowItWorksSection';
+import GameTips from '../components/GameTips';
 import FAQSection from '../components/FAQSection';
 import { useRouter } from 'next/router';
 import { useTranslation } from 'next-i18next';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 import AIImageExpanderTips from '../components/AIImageExpanderTips';
 import AIExpandImageGuide from '../components/AIExpandImageGuide';
+import { useState, useRef } from 'react';
+import GameGuide from '../components/GameGuide';
 
 const Home: NextPage = () => {
   const { t } = useTranslation('common');
   const router = useRouter();
   const { locale, locales, defaultLocale, pathname } = router;
   const canonicalUrl = `https://flux1.one${locale === defaultLocale ? '' : `/${locale}`}${pathname}`;
+  const [showGame, setShowGame] = useState(false);
+  const iframeRef = useRef<HTMLIFrameElement>(null);
+  const [iframeLoaded, setIframeLoaded] = useState(false);
+
 
   return (
     <div className='flex max-w-6xl mx-auto flex-col items-center justify-center py-2 min-h-screen'>
@@ -170,53 +177,48 @@ const Home: NextPage = () => {
 
       </Head>
       <Header />
-      <div className='flex flex-col lg:flex-row w-full items-center justify-between px-4 mt-10 lg:mt-20'>
-        {/* Image section */}
-        <div className='w-full lg:w-1/2 mb-10 lg:mb-0 order-1'>
-          <div className='flex flex-col space-y-10'>
-            <div className='flex justify-center'>
-              <div className='relative w-full h-64 sm:h-80 md:h-96 lg:h-[28rem] xl:h-[32rem]'>
-                <Image
-                  alt='flux1.1 pro demo'
-                  src='/index_image/flux1.1pro_cake_demo.webp'
-                  layout='fill'
-                  objectFit='contain'
-                  priority
-                  loading="eager"
-                  sizes="(max-width: 1024px) 100vw, 50vw"
-                />
-              </div>
+
+      {/* 游戏加载框 */}
+      <div className='w-full flex justify-center mt-10'>
+        <div 
+          className='relative w-full max-w-[768px] h-[320px] md:h-[573px] border border-gray-300 rounded-lg shadow-lg'
+          onClick={() => setShowGame(true)}
+        >
+          {!showGame ? (
+            <div className='absolute inset-0 flex items-center justify-center bg-white bg-opacity-75 cursor-pointer'>
+              <img
+                src="https://cdn.geometrydashjp.com/geometrydashlite-game-image.webp"
+                alt="Game Cover"
+                className="absolute inset-0 w-full h-full object-cover"
+              />
+              <button
+                className='bg-blue-500 text-white font-medium px-6 py-3 rounded hover:bg-blue-400 transition duration-300 ease-in-out z-10'
+              >
+                Start Game
+              </button>
             </div>
-          </div>
+          ) : (
+            <iframe
+              ref={iframeRef}
+              src="https://cdn.geometrydashjp.com/geometrydashippause.html"
+              width="100%"
+              height="100%"
+              frameBorder="0"
+              allowFullScreen
+              title="HTML Game"
+              onLoad={() => setIframeLoaded(true)}
+              className={iframeLoaded ? '' : 'hidden'}
+            ></iframe>
+          )}
         </div>
-
-        {/* Main content section */}
-        <main className='w-full lg:w-1/2 flex flex-col items-center justify-center text-center lg:text-left order-2'>
-
-          <h1 className='mx-auto lg:mx-0 max-w-4xl font-display text-4xl lg:text-5xl font-bold tracking-normal text-slate-900 sm:text-6xl lg:text-7xl'>
-            {t('home.title')}
-          </h1>
-
-          <p className='mx-auto lg:mx-0 mt-6 lg:mt-12 max-w-xl text-lg text-slate-700 leading-7'>
-            {t('home.description')}
-          </p>
-          <div className='flex justify-center lg:justify-start mt-8 lg:mt-10'>
-            <Link
-              className='bg-orange-500 rounded-xl text-white font-medium px-4 py-3 hover:bg-orange-400 border-2 border-orange-600 transition duration-300 ease-in-out transform hover:scale-105 shadow-lg'
-              href='/waitlist'
-            >
-              {t('home.cta')}
-            </Link>
-          </div>
-        </main>
       </div>
+
       <FeaturesSection />
       <HowItWorksSection />
-      {/* <AIExpandImageFeatures /> */}
-      <AIImageExpanderTips />
+      <GameTips />
       <FAQSection />
       <Testimonials />
-      <AIExpandImageGuide />
+      <GameGuide />
       <Footer />
     </div>
   );
