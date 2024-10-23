@@ -40,8 +40,8 @@ const BlogListPage: NextPage<BlogListPageProps> = ({ posts }) => {
 
       <main className='flex-grow'>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <h1 className="text-3xl font-bold text-center mb-8">AI Expand Image Blog Post List</h1>
-          <p className="text-xl text-center text-gray-600 mb-12">All you need know about AIExpandImage</p>
+          <h1 className="text-3xl font-bold text-center mb-8">geometry dash Blog Post List</h1>
+          <p className="text-xl text-center text-gray-600 mb-12">All you need know about geometry dash</p>
           <BlogPostList posts={posts} />
         </div>
       </main>
