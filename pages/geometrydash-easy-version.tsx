@@ -62,7 +62,7 @@ const Home: NextPage = () => {
             "operatingSystem": "Any",
             "description": {
               "@language": "ja",
-              "@value": "ジオメトリーダッシュオンラインは、無料で遊��音楽リズムアクションゲームです。音楽に合わせたスリリングなゲームプレイを体験し、自分だけのレベルを作成し、様々なゲームモードで自分に挑戦しましょう。"
+              "@value": "ジオメトリーダッシュオンラインは、無料で遊る音楽リズムアクションゲームです。音楽に合わせたスリリングなゲームプレイを体験し、自分だけのレベルを作成し、様々なゲームモードで自分に挑戦しましょう。"
             },
             "inLanguage": ["ja"],
             "aggregateRating": {
@@ -134,29 +134,27 @@ const Home: NextPage = () => {
       </Head>
       <Header />
 
-      {/* 游戏加载框 */}
-      <div className='w-full flex flex-col items-center mt-10'>
+     
+
+      {/* easy version game */}
+      <div className='w-full flex justify-center mt-10'>
         <div 
           className='relative w-full max-w-[768px] h-[320px] md:h-[573px] border border-gray-300 rounded-lg shadow-lg'
           onClick={() => setShowGame(true)}
         >
           {!showGame ? (
-            <div className='absolute inset-0 flex items-center justify-center bg-white bg-opacity-75 cursor-pointer'>
-              <img
-                src="https://cdn.geometrydashjp.com/geometrydashlite-game-image.webp"
-                alt="Game Cover"
-                className="absolute inset-0 w-full h-full object-cover"
-              />
+            <div className='absolute inset-0 flex flex-col items-center justify-center bg-gray-100 cursor-pointer'>
+              <h2 className='text-3xl font-bold mb-4'>簡単バージョン</h2>
               <button
                 className='bg-blue-500 text-white font-medium px-6 py-3 rounded hover:bg-blue-400 transition duration-300 ease-in-out z-10'
               >
-                Start Game
+                ゲームを始める
               </button>
             </div>
           ) : (
             <iframe
               ref={iframeRef}
-              src="https://cdn.geometrydashjp.com/dash-jp.html"
+              src="https://cdn.geometrydashjp.com/dash-jp-easy.html"
               width="100%"
               height="100%"
               frameBorder="0"
@@ -167,61 +165,34 @@ const Home: NextPage = () => {
             ></iframe>
           )}
         </div>
-        
-        {/* ゲーム説明セクション */}
-        <div className="mt-8 max-w-[768px] w-full bg-gradient-to-r from-blue-100 to-purple-100 rounded-lg shadow-md p-6">
-          <h3 className="text-2xl font-bold text-center mb-4 text-indigo-700">ゲーム操作ガイド</h3>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <div className="bg-white rounded-lg p-4 shadow-sm">
-              <h4 className="font-semibold text-lg text-indigo-600 mb-2">基本操作</h4>
-              <ul className="list-disc list-inside space-y-2 text-gray-700">
-                <li><span className="font-medium">ジャンプ:</span> スペース、W、上矢印、Ctrlまたはマウスクリック</li>
-                <li><span className="font-medium">一時停止:</span> Pキー</li>
-                <li><span className="font-medium">特殊効果切替:</span> Lキー</li>
-                <li><span className="font-medium">再起動:</span> 緑の旗をクリック</li>
-              </ul>
-            </div>
-            <div className="bg-white rounded-lg p-4 shadow-sm">
-              <h4 className="font-semibold text-lg text-indigo-600 mb-2">ゲームのヒント</h4>
-              <ul className="list-disc list-inside space-y-2 text-gray-700">
-                <li>scratch版のGeometry Dashだけではなく原作も遊んでみてください!!
-                </li>
-                <li>～アップデート速報欄～</li>
-                <li>2020/06/13:共有
-ランキングデータのリセット
-</li>
-              </ul>
-            </div>
-          </div>
-          <p className="mt-4 text-center text-indigo-600 font-medium">楽しんでプレイしてください！</p>
-        </div>
-        
-        {/* 簡単バージョンへのリンクボタン */}
-        <div className="mt-6 w-full max-w-[768px]">
-          <button
-            onClick={() => router.push('/geometrydash-easy-version')}
-            className="w-full py-3 px-6 bg-gradient-to-r from-purple-500 to-indigo-600 text-white font-medium rounded-lg shadow-md hover:from-purple-600 hover:to-indigo-700 transition duration-300 ease-in-out transform hover:-translate-y-1 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
-          >
-            <span className="flex items-center justify-center">
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
-                <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clipRule="evenodd" />
-              </svg>
-              ゲームが難しいと感じたら、簡単バージョンをお試しください
-            </span>
-          </button>
-        </div>
       </div>
 
+      {/* ゲーム説明セクション */}
+      <div className="mt-8 max-w-[768px] mx-auto bg-gradient-to-r from-blue-100 to-purple-100 rounded-lg shadow-md p-6">
+        <h3 className="text-2xl font-bold text-center mb-4 text-indigo-700">ゲーム操作ガイド</h3>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="bg-white rounded-lg p-4 shadow-sm">
+            <h4 className="font-semibold text-lg text-indigo-600 mb-2">基本操作</h4>
+            <ul className="list-disc list-inside space-y-2 text-gray-700">
+              <li><span className="font-medium">ジャンプ:</span> スペース、W、上矢印、Ctrlまたはマウスクリック</li>
+              <li><span className="font-medium">一時停止:</span> Pキー</li>
+              <li><span className="font-medium">特殊効果切替:</span> Lキー</li>
+              <li><span className="font-medium">再起動:</span> 緑の旗をクリック</li>
+            </ul>
+          </div>
+          <div className="bg-white rounded-lg p-4 shadow-sm">
+            <h4 className="font-semibold text-lg text-indigo-600 mb-2">ゲームのヒント</h4>
+            <ul className="list-disc list-inside space-y-2 text-gray-700">
+              <li>上位500のスコアのみが記録されます</li>
+              <li>v1.6 更新: パフォーマンス向上のためScratchを自動無効化</li>
+              <li>2016年5月3日 v1.5更新: ジャンプの仕組みを調整し、オリジナルゲームに近づけました</li>
+              <li>トリプルスパイクのジャンプが簡単になりました</li>
+            </ul>
+          </div>
+        </div>
+        <p className="mt-4 text-center text-indigo-600 font-medium">楽しんでプレイしてください！</p>
+      </div>
 
-
-
-      <FeaturesSection />
-      <HowItWorksSection />
-      <GameTips />
-      <FAQSection />
-      <Testimonials />
-      <GameGuide />
-      <Footer />
     </div>
   );
 };
