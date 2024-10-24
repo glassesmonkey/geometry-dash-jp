@@ -5,8 +5,7 @@ import Footer from '../components/Footer';
 
 const MediaCoverage: NextPage = () => {
   const coverageLinks = [
- { title: "v2ex", url: "https://www.v2ex.com/t/1082364" },
- { title: "github", url: "https://github.com/glassesmonkey/geometry-dash-jp" },
+
  { title: "someone like me", url: "http://jevc.sakura.ne.jp/bbs/nXmv8E5.cgi?no=21049&reno=no&oya=21049&mode=msgview&page=0" },
  { title: "osu", url: "https://u.osu.edu/meutilab/2024/01/29/new-paper-2/#comment-70" },
  { title: "substack", url: "https://on.substack.com/p/what-to-read-justin-davis/comments" },
@@ -16,6 +15,11 @@ const MediaCoverage: NextPage = () => {
  { title: "ludoking", url: "https://forum.ludoking.com/index.php?topic=5027.msg586903#msg586903" },
  { title: "prnewswire", url: "https://mediablogstage.prnewswire.com/2020/08/05/8-tools-every-journalism-student-needs-for-back-to-school-season/#comment-435873" },
  { title: "siemens", url: "https://ca.webinar.siemens.com/3re41-sirius-motor-starter-packages-1" },
+ { title: "doctissimo", url: "https://forum.doctissimo.fr/sante/dents/extraction-sujet_171729_1.htm#bas" },
+ { title: "v2ex", url: "https://www.v2ex.com/t/1082364" },
+ { title: "github", url: "https://github.com/glassesmonkey/geometry-dash-jp" },
+ { title: "mavil", url: "http://www.mavil.epsjv.fiocruz.br/?q=node/77" },
+
 
 ];
 
