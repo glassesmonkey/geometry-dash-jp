@@ -19,7 +19,11 @@ const MediaCoverage: NextPage = () => {
  { title: "v2ex", url: "https://www.v2ex.com/t/1082364" },
  { title: "github", url: "https://github.com/glassesmonkey/geometry-dash-jp" },
  { title: "mavil", url: "http://www.mavil.epsjv.fiocruz.br/?q=node/77" },
-
+ { title: "blog.goo", url: "https://blog.goo.ne.jp/maple_syrup_with_my_angel/e/151a60d9fed19a325bafee1acd2ec61c?st=0#comment-form" },
+ { title: "invenglobal", url: "https://www.invenglobal.com/forum/lostark/141-guides-tips/9414-lost-ark-sol-grande-boss-guide-how-to-beat-location-and-rewards#IGCCS_ID_16095" },
+ { title: "invenglobal", url: "https://www.invenglobal.com/forum/lostark/141-guides-tips/9403-lost-ark-how-to-get-and-use-requiem-of-twilight" },
+ { title: "valofe", url: "https://forums.valofe.com/forum/black-squad-tw/%E6%96%B0%E5%85%AC%E5%91%8A-aa/%E9%96%8B%E7%99%BC%E6%97%A5%E8%AA%8C-aa/73927-how-to-find-a-wps-pin-on-hp-deskjet-2600/page12#post111483" },
+{ title: "iroiro400", url: "https://iroiro400.sakura.ne.jp/400BBS/pwebboard.php/nfJfdqijiKo" },
 
 ];
 
